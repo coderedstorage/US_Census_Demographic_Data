@@ -1,0 +1,150 @@
+﻿state,county,metropolitan,top10_msa_name
+Illinois,Cook,Chicago-Elgin,Chicago MSA
+Illinois,DuPage,Chicago-Elgin,Chicago MSA
+Illinois,Grundy,Chicago-Elgin,Chicago MSA
+Illinois,McHenry,Chicago-Elgin,Chicago MSA
+Illinois,Will,Chicago-Elgin,Chicago MSA
+Illinois,DeKalb,Chicago-Elgin,Chicago MSA
+Illinois,Kane,Chicago-Elgin,Chicago MSA
+Illinois,Kendall,Chicago-Elgin,Chicago MSA
+Illinois,Lake,Chicago-Elgin,Chicago MSA
+Indiana,Jasper,Gary,Chicago MSA
+Indiana,Lake,Gary,Chicago MSA
+Indiana,Newton,Gary,Chicago MSA
+Indiana,Porter,Gary,Chicago MSA
+Wisconsin,Kenosha,Lake,Chicago MSA
+Texas,Collin,Dallas-FW,Dallas MSA
+Texas,Dallas,Dallas-FW,Dallas MSA
+Texas,Denton,Dallas-FW,Dallas MSA
+Texas,Ellis,Dallas-FW,Dallas MSA
+Texas,Hunt,Dallas-FW,Dallas MSA
+Texas,Kaufman,Dallas-FW,Dallas MSA
+Texas,Rockwall,Dallas-FW,Dallas MSA
+Texas,Johnson,Dallas-FW,Dallas MSA
+Texas,Parker,Dallas-FW,Dallas MSA
+Texas,Tarrant,Dallas-FW,Dallas MSA
+Texas,Wise,Dallas-FW,Dallas MSA
+Virginia,Fairfax,DC-VA,Metro DC
+Maryland,Montgomery,DC-MD,Metro DC
+Maryland,Prince George's,DC-MD,Metro DC
+District of Columbia,District of Columbia,DC-Core,Metro DC
+Virginia,Prince William,DC-VA,Metro DC
+Virginia,Loudoun,DC-VA,Metro DC
+Maryland,Frederick,DC-MD,Metro DC
+Virginia,Arlington,DC-VA,Metro DC
+Maryland,Charles,DC-MD,Metro DC
+Virginia,Alexandria city,DC-VA,Metro DC
+Virginia,Stafford,DC-VA,Metro DC
+Virginia,Spotsylvania,DC-VA,Metro DC
+Maryland,Calvert,DC-MD,Metro DC
+Virginia,Fauquier,DC-VA,Metro DC
+West Virginia,Jefferson,DC-WV,Metro DC
+Virginia,Culpeper,DC-VA,Metro DC
+Virginia,Manassas city,DC-VA,Metro DC
+Virginia,Warren,DC-VA,Metro DC
+Virginia,Fredericksburg city,DC-VA,Metro DC
+Virginia,Fairfax city,DC-VA,Metro DC
+Virginia,Manassas park city,DC-VA,Metro DC
+Virginia,Clarke,DC-VA,Metro DC
+Virginia,Falls church city,DC-VA,Metro DC
+Virginia,Madison,DC-VA,Metro DC
+Virginia,Rappahannock,DC-VA,Metro DC
+Massachusetts,Essex,Greater Boston,Greater Boston
+Massachusetts,Middlesex,Greater Boston,Greater Boston
+Massachusetts,Norfolk,Greater Boston,Greater Boston
+Massachusetts,Plymouth,Greater Boston,Greater Boston
+Massachusetts,Suffolk,Greater Boston,Greater Boston
+New Hampshire,Rockingham,Greater Boston,Greater Boston
+New Hampshire,Strafford,Greater Boston,Greater Boston
+Texas,Austin,Greater Houston,Greater Houston
+Texas,Brazoria,Greater Houston,Greater Houston
+Texas,Chambers,Greater Houston,Greater Houston
+Texas,Fort Bend,Greater Houston,Greater Houston
+Texas,Galveston,Greater Houston,Greater Houston
+Texas,Harris,Greater Houston,Greater Houston
+Texas,Liberty,Greater Houston,Greater Houston
+Texas,Montgomery,Greater Houston,Greater Houston
+Texas,Waller,Greater Houston,Greater Houston
+California,Los Angeles,Greater LA,Greater LA
+California,Ventura,Greater LA,Greater LA
+California,San Bernardino,Greater LA,Greater LA
+California,Riverside,Greater LA,Greater LA
+California,Orange,Greater LA,Greater LA
+New Jersey,Burlington,Camden Area,Greater Philly
+New Jersey,Camden,Camden Area,Greater Philly
+New Jersey,Gloucester,Camden Area,Greater Philly
+Pennsylvania,Bucks,Philadelphia & East. PA,Greater Philly
+Pennsylvania,Chester,Philadelphia & East. PA,Greater Philly
+Pennsylvania,Montgomery,Philadelphia & East. PA,Greater Philly
+Pennsylvania,Delaware,Philadelphia & East. PA,Greater Philly
+Pennsylvania,Philadelphia,Philadelphia & East. PA,Greater Philly
+Delaware,New Castle,Wilmington-DE,Greater Philly
+Maryland,Cecil,Wilmington-MD,Greater Philly
+New Jersey,Salem,Wilmington-NJ,Greater Philly
+Georgia,Fulton,Metro Atlanta,Metro Atlanta
+Georgia,Gwinnett,Metro Atlanta,Metro Atlanta
+Georgia,Cobb,Metro Atlanta,Metro Atlanta
+Georgia,DeKalb,Metro Atlanta,Metro Atlanta
+Georgia,Clayton,Metro Atlanta,Metro Atlanta
+Georgia,Cherokee,Metro Atlanta,Metro Atlanta
+Georgia,Forsyth,Metro Atlanta,Metro Atlanta
+Georgia,Henry,Metro Atlanta,Metro Atlanta
+Georgia,Paulding,Metro Atlanta,Metro Atlanta
+Georgia,Coweta,Metro Atlanta,Metro Atlanta
+Georgia,Douglas,Metro Atlanta,Metro Atlanta
+Georgia,Fayette,Metro Atlanta,Metro Atlanta
+Georgia,Carroll,Metro Atlanta,Metro Atlanta
+Georgia,Newton,Metro Atlanta,Metro Atlanta
+Georgia,Bartow,Metro Atlanta,Metro Atlanta
+Georgia,Walton,Metro Atlanta,Metro Atlanta
+Georgia,Rockdale,Metro Atlanta,Metro Atlanta
+Georgia,Barrow,Metro Atlanta,Metro Atlanta
+Georgia,Spalding,Metro Atlanta,Metro Atlanta
+Georgia,Pickens,Metro Atlanta,Metro Atlanta
+Georgia,Haralson,Metro Atlanta,Metro Atlanta
+Georgia,Dawson,Metro Atlanta,Metro Atlanta
+Georgia,Butts,Metro Atlanta,Metro Atlanta
+Georgia,Meriwether,Metro Atlanta,Metro Atlanta
+Georgia,Morgan,Metro Atlanta,Metro Atlanta
+Georgia,Pike,Metro Atlanta,Metro Atlanta
+Georgia,Lamar,Metro Atlanta,Metro Atlanta
+Georgia,Jasper,Metro Atlanta,Metro Atlanta
+Georgia,Heard,Metro Atlanta,Metro Atlanta
+Florida,Miami-Dade,Metro Miami,Metro Miami
+Florida,Broward,Metro Miami,Metro Miami
+Florida,Palm Beach,Metro Miami,Metro Miami
+Arizona,Maricopa,Metro Phoenix,Metro Phoenix
+Arizona,Pinal,Metro Phoenix,Metro Phoenix
+California,Alameda,SF Bay Area,SF Bay Area
+California,Contra Costa,SF Bay Area,SF Bay Area
+California,Marin,SF Bay Area,SF Bay Area
+California,Napa,SF Bay Area,SF Bay Area
+California,San Francisco,SF Bay Area,SF Bay Area
+California,San Mateo,SF Bay Area,SF Bay Area
+California,Santa Clara,SF Bay Area,SF Bay Area
+California,Solano,SF Bay Area,SF Bay Area
+California,Sonoma,SF Bay Area,SF Bay Area
+New York,Bronx,NYC,Tri State
+New York,Kings,NYC,Tri State
+New York,New York,NYC,Tri State
+New York,Queens,NYC,Tri State
+New York,Richmond,NYC,Tri State
+New York,Westchester,Tri State Ex NYC-NY,Tri State
+New Jersey,Bergen,Tri State Ex NYC-NJ,Tri State
+New Jersey,Hudson,Tri State Ex NYC-NJ,Tri State
+New Jersey,Passaic,Tri State Ex NYC-NJ,Tri State
+New York,Putnam,Tri State Ex NYC-NY,Tri State
+New York,Orange,Tri State Ex NYC-NY,Tri State
+New York,Rockland,Tri State Ex NYC-NY,Tri State
+New York,Suffolk,Tri State Ex NYC-NY,Tri State
+New York,Nassau,Tri State Ex NYC-NY,Tri State
+New Jersey,Middlesex,Tri State Ex NYC-NJ,Tri State
+New Jersey,Monmouth,Tri State Ex NYC-NJ,Tri State
+New Jersey,Ocean,Tri State Ex NYC-NJ,Tri State
+New Jersey,Somerset,Tri State Ex NYC-NJ,Tri State
+New Jersey,Essex,Tri State Ex NYC-NJ,Tri State
+New Jersey,Union,Tri State Ex NYC-NJ,Tri State
+New Jersey,Morris,Tri State Ex NYC-NJ,Tri State
+New Jersey,Sussex,Tri State Ex NYC-NJ,Tri State
+New Jersey,Hunterdon,Tri State Ex NYC-NJ,Tri State
+Pennsylvania,Pike,Tri State Ex NYC-PA,Tri State
