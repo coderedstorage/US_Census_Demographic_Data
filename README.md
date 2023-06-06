@@ -40,6 +40,9 @@ Generate insights from census tract data which covers factors related to transpo
 ## 6. Tableau visualization
 https://public.tableau.com/app/profile/alan.kong2051/viz/USCensusDemographicData_16858286856570/Story
 
+## GitHub
+https://github.com/coderedstorage/US_Census_Demographic_Data
+
 # Appendix: About the dataset
 Copied from Kaggle https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data
 ## Context
