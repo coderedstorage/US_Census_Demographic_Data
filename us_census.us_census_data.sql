@@ -1,14 +1,14 @@
 CREATE OR REPLACE VIEW us_census.us_census_data AS 
-WITH relevant_sates AS
-(SELECT distinct state FROM us_census.metro),
+WITH state_has_metro AS
+(SELECT DISTINCT state FROM us_census.metro),
 US_avg_IncomePerCap AS
 (SELECT SUM(TotalPop*IncomePerCap)/SUM(TotalPop) FROM us_census.kaggle_data),
-state_has_metro AS
-(SELECT DISTINCT state FROM us_census.metro)
+metro_pop AS
+(SELECT * FROM us_census.metro_adj)
 
 SELECT 
-    usc.*, 
-    
+    usc.*,
+    scd.state_code,
         CASE 
     WHEN mtr.metropolitan IS NOT NULL
     THEN mtr.metropolitan
@@ -38,8 +38,24 @@ SELECT
     CASE WHEN 
     (SELECT smtr.state FROM state_has_metro smtr WHERE smtr.state = usc.state)
     IS NULL THEN 'N'
-    ELSE 'Y' END state_has_metro
+    ELSE 'Y' END state_has_metro,
+    
+	CASE 
+    WHEN mtr.metropolitan IS NOT NULL
+    THEN mtp.metro_pop
+    ELSE usc.TotalPop
+    END cons_metro_county_pop,
+    
+	CASE 
+    WHEN mtr.metropolitan IS NOT NULL
+    THEN mtp.metro_above_200K_midsize_or_larger
+    ELSE "other counties"
+    END metro_above_200K_midsize_or_larger
 
 FROM us_census.kaggle_data usc
 LEFT JOIN us_census.metro mtr
-ON usc.state = mtr.state AND usc.county = mtr.county
+ON TRIM(usc.state) = TRIM(mtr.state) AND TRIM(usc.county) = TRIM(mtr.county)
+LEFT JOIN metro_pop mtp
+ON TRIM(mtr.state) = TRIM(mtp.state) AND mtr.metropolitan = mtp.metropolitan
+LEFT JOIN us_census.state_code scd
+ON TRIM(usc.state) = TRIM(scd.state)
