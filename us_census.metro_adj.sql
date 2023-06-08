@@ -8,29 +8,21 @@ SELECT
     WHEN mtr.metropolitan IS NOT NULL
     THEN mtr.metropolitan
     ELSE usc.county
-    END metropolitan_or_county,
+    END metro_or_county,
     
 	CASE 
-    WHEN mtr.top_10_msa_name IS NOT NULL
-    THEN mtr.top_10_msa_name
+    WHEN mtr.major_msa IS NOT NULL
+    THEN mtr.major_msa
     ELSE "other counties"
-    END top_10_msa,
+    END major_msa,
     
 	CASE 
     WHEN mtr.metropolitan IS NOT NULL
-    THEN 'True'
-    ELSE 'False'
-    END top_10_metro,
+    THEN 'Y'
+    ELSE 'N'
+    END is_major_metro,
     
-    SUM(TotalPop) TotalPop, 
-    SUM(Men) Men, 
-    SUM(Women) Women,
-    SUM(Hispanic*TotalPop)/sum(TotalPop)*100 Hispanic,
-    SUM(White*TotalPop)/sum(TotalPop)*100 White,
-    SUM(Black*TotalPop)/sum(TotalPop)*100 Black,
-    SUM(Native*TotalPop)/sum(TotalPop)*100 Native,
-    SUM(Asian*TotalPop)/sum(TotalPop)*100 Asian,
-    SUM(Pacific*TotalPop)/sum(TotalPop)*100 Pacific
+    SUM(TotalPop) metro_county_Pop
 
 FROM us_census.kaggle_data usc
 LEFT JOIN us_census.metro mtr
