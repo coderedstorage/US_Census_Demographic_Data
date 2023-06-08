@@ -16,10 +16,13 @@ Generate insights from census tract data which covers factors related to transpo
 * More details, see Appendix.
 
 ## 3. Tools used
-* MySQL to facilitate enablement to:
-  * Overlay information on urbanization conglomerations (MSAs) saved as metro_counties.csv on the original data (acs2015_county_data.csv). Revised dataset saved as us_census_data.csv.
-  * Generate MSA level (if any) consolidation for population-related fields for total, gender and racial (columns include TotalPop, Men, Women, Hispanic, White, Black, Native, Asian	Pacific). Revised dataset saved as metro_adj.csv.
-* Tableau Public for visualization. Requires us_census_data.csv and metro_adj.csv to be commited to Tableau Public.
+* MySQL to facilitate enablement to overlay external information on original data (acs2015_county_data.csv) to generate final dataset (us_census_data.csv):
+  * Overlay urbanization conglomeration (MSAs) information from metro_counties.csv. 
+  * Overlay state codes from state_code.csv.
+* MySQL to facilitate enablement to overlay information on original data (acs2015_county_data.csv) to generate calculation of metro area level populations as metro_adj.csv:
+  * Overlay urbanization conglomeration (MSAs) information from metro_counties.csv. 
+* MySQL to overlay metro area level populations (metro_adj.csv) on original data (acs2015_county_data.csv) to generate final dataset (us_census_data.csv).
+* Tableau Public to create visualization (requires final dataset us_census_data.csv to be commited to Tableau Public).
 
 ## 4. Generated insights
 * Macro view on transportation followed drill downs into mode of transportation and commute time by state, metro areas and county.  
