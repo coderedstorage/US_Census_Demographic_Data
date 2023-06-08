@@ -1,0 +1,3095 @@
+state,metro_or_county,major_msa,is_major_metro,metro_county_Pop
+Alabama,Autauga,"other counties",N,55221
+Alabama,Baldwin,"other counties",N,195121
+Alabama,Barbour,"other counties",N,26932
+Alabama,Bibb,"other counties",N,22604
+Alabama,Blount,"other counties",N,57710
+Alabama,Bullock,"other counties",N,10678
+Alabama,Butler,"other counties",N,20354
+Alabama,Calhoun,"other counties",N,116648
+Alabama,Chambers,"other counties",N,34079
+Alabama,Cherokee,"other counties",N,26008
+Alabama,Chilton,"other counties",N,43819
+Alabama,Choctaw,"other counties",N,13395
+Alabama,Clarke,"other counties",N,25070
+Alabama,Clay,"other counties",N,13537
+Alabama,Cleburne,"other counties",N,15002
+Alabama,Coffee,"other counties",N,50884
+Alabama,Colbert,"other counties",N,54444
+Alabama,Conecuh,"other counties",N,12865
+Alabama,Coosa,"other counties",N,11027
+Alabama,Covington,"other counties",N,37886
+Alabama,Crenshaw,"other counties",N,13938
+Alabama,Cullman,"other counties",N,80965
+Alabama,Dale,"other counties",N,49866
+Alabama,Dallas,"other counties",N,42154
+Alabama,DeKalb,"other counties",N,71068
+Alabama,Elmore,"other counties",N,80763
+Alabama,Escambia,"other counties",N,37935
+Alabama,Etowah,"other counties",N,103766
+Alabama,Fayette,"other counties",N,16896
+Alabama,Franklin,"other counties",N,31634
+Alabama,Geneva,"other counties",N,26815
+Alabama,Greene,"other counties",N,8697
+Alabama,Hale,"other counties",N,15256
+Alabama,Henry,"other counties",N,17252
+Alabama,Houston,"other counties",N,103534
+Alabama,Jackson,"other counties",N,52860
+Alabama,Jefferson,"other counties",N,659026
+Alabama,Lamar,"other counties",N,14133
+Alabama,Lauderdale,"other counties",N,92737
+Alabama,Lawrence,"other counties",N,33586
+Alabama,Lee,"other counties",N,150982
+Alabama,Limestone,"other counties",N,88805
+Alabama,Lowndes,"other counties",N,10742
+Alabama,Macon,"other counties",N,20018
+Alabama,Madison,"other counties",N,346438
+Alabama,Marengo,"other counties",N,20306
+Alabama,Marion,"other counties",N,30387
+Alabama,Marshall,"other counties",N,94318
+Alabama,Mobile,"other counties",N,414251
+Alabama,Monroe,"other counties",N,22217
+Alabama,Montgomery,"other counties",N,228138
+Alabama,Morgan,"other counties",N,119786
+Alabama,Perry,"other counties",N,10038
+Alabama,Pickens,"other counties",N,19856
+Alabama,Pike,"other counties",N,33155
+Alabama,Randolph,"other counties",N,22648
+Alabama,Russell,"other counties",N,58302
+Alabama,"St. Clair","other counties",N,85864
+Alabama,Shelby,"other counties",N,203530
+Alabama,Sumter,"other counties",N,13341
+Alabama,Talladega,"other counties",N,81437
+Alabama,Tallapoosa,"other counties",N,41153
+Alabama,Tuscaloosa,"other counties",N,200458
+Alabama,Walker,"other counties",N,65923
+Alabama,Washington,"other counties",N,16997
+Alabama,Wilcox,"other counties",N,11235
+Alabama,Winston,"other counties",N,24130
+Alaska,"Aleutians East Borough","other counties",N,3304
+Alaska,"Aleutians West Census Area","other counties",N,5684
+Alaska,"Anchorage Municipality","other counties",N,299107
+Alaska,"Bethel Census Area","other counties",N,17776
+Alaska,"Bristol Bay Borough","other counties",N,970
+Alaska,"Denali Borough","other counties",N,2060
+Alaska,"Dillingham Census Area","other counties",N,4979
+Alaska,"Fairbanks North Star Borough","other counties",N,99705
+Alaska,"Haines Borough","other counties",N,2560
+Alaska,"Hoonah-Angoon Census Area","other counties",N,2128
+Alaska,"Juneau City and Borough","other counties",N,32531
+Alaska,"Kenai Peninsula Borough","other counties",N,57221
+Alaska,"Ketchikan Gateway Borough","other counties",N,13699
+Alaska,"Kodiak Island Borough","other counties",N,13973
+Alaska,"Kusilvak Census Area","other counties",N,7914
+Alaska,"Lake and Peninsula Borough","other counties",N,1474
+Alaska,"Matanuska-Susitna Borough","other counties",N,96178
+Alaska,"Nome Census Area","other counties",N,9854
+Alaska,"North Slope Borough","other counties",N,9667
+Alaska,"Northwest Arctic Borough","other counties",N,7732
+Alaska,"Petersburg Borough","other counties",N,3221
+Alaska,"Prince of Wales-Hyder Census Area","other counties",N,6376
+Alaska,"Sitka City and Borough","other counties",N,8943
+Alaska,"Skagway Municipality","other counties",N,999
+Alaska,"Southeast Fairbanks Census Area","other counties",N,7029
+Alaska,"Valdez-Cordova Census Area","other counties",N,9617
+Alaska,"Wrangell City and Borough","other counties",N,2387
+Alaska,"Yakutat City and Borough","other counties",N,643
+Alaska,"Yukon-Koyukuk Census Area","other counties",N,5644
+Arizona,Apache,"other counties",N,72124
+Arizona,Cochise,"other counties",N,129647
+Arizona,Coconino,"other counties",N,136701
+Arizona,Gila,"other counties",N,53165
+Arizona,Graham,"other counties",N,37407
+Arizona,Greenlee,"other counties",N,9023
+Arizona,"La Paz","other counties",N,20335
+Arizona,"Metro Phoenix","Metro Phoenix",Y,4407915
+Arizona,Mohave,"other counties",N,203362
+Arizona,Navajo,"other counties",N,107656
+Arizona,Pima,"other counties",N,998537
+Arizona,"Santa Cruz","other counties",N,47073
+Arizona,Yavapai,"other counties",N,215996
+Arizona,Yuma,"other counties",N,202987
+Arkansas,Arkansas,"other counties",N,18731
+Arkansas,Ashley,"other counties",N,21229
+Arkansas,Baxter,"other counties",N,41040
+Arkansas,Benton,"other counties",N,238198
+Arkansas,Boone,"other counties",N,37227
+Arkansas,Bradley,"other counties",N,11206
+Arkansas,Calhoun,"other counties",N,5245
+Arkansas,Carroll,"other counties",N,27635
+Arkansas,Chicot,"other counties",N,11353
+Arkansas,Clark,"other counties",N,22751
+Arkansas,Clay,"other counties",N,15400
+Arkansas,Cleburne,"other counties",N,25711
+Arkansas,Cleveland,"other counties",N,8510
+Arkansas,Columbia,"other counties",N,24327
+Arkansas,Conway,"other counties",N,21110
+Arkansas,Craighead,"other counties",N,101409
+Arkansas,Crawford,"other counties",N,61748
+Arkansas,Crittenden,"other counties",N,49765
+Arkansas,Cross,"other counties",N,17467
+Arkansas,Dallas,"other counties",N,7868
+Arkansas,Desha,"other counties",N,12379
+Arkansas,Drew,"other counties",N,18740
+Arkansas,Faulkner,"other counties",N,119343
+Arkansas,Franklin,"other counties",N,17866
+Arkansas,Fulton,"other counties",N,12224
+Arkansas,Garland,"other counties",N,96954
+Arkansas,Grant,"other counties",N,18054
+Arkansas,Greene,"other counties",N,43382
+Arkansas,Hempstead,"other counties",N,22336
+Arkansas,"Hot Spring","other counties",N,33316
+Arkansas,Howard,"other counties",N,13555
+Arkansas,Independence,"other counties",N,36952
+Arkansas,Izard,"other counties",N,13480
+Arkansas,Jackson,"other counties",N,17597
+Arkansas,Jefferson,"other counties",N,73548
+Arkansas,Johnson,"other counties",N,25930
+Arkansas,Lafayette,"other counties",N,7270
+Arkansas,Lawrence,"other counties",N,17029
+Arkansas,Lee,"other counties",N,9966
+Arkansas,Lincoln,"other counties",N,14062
+Arkansas,"Little River","other counties",N,12720
+Arkansas,Logan,"other counties",N,22001
+Arkansas,Lonoke,"other counties",N,70691
+Arkansas,Madison,"other counties",N,15702
+Arkansas,Marion,"other counties",N,16458
+Arkansas,Miller,"other counties",N,43652
+Arkansas,Mississippi,"other counties",N,44864
+Arkansas,Monroe,"other counties",N,7713
+Arkansas,Montgomery,"other counties",N,9197
+Arkansas,Nevada,"other counties",N,8793
+Arkansas,Newton,"other counties",N,8052
+Arkansas,Ouachita,"other counties",N,25044
+Arkansas,Perry,"other counties",N,10300
+Arkansas,Phillips,"other counties",N,20391
+Arkansas,Pike,"other counties",N,11087
+Arkansas,Poinsett,"other counties",N,24210
+Arkansas,Polk,"other counties",N,20364
+Arkansas,Pope,"other counties",N,62830
+Arkansas,Prairie,"other counties",N,8402
+Arkansas,Pulaski,"other counties",N,390463
+Arkansas,Randolph,"other counties",N,17695
+Arkansas,"St. Francis","other counties",N,27345
+Arkansas,Saline,"other counties",N,113833
+Arkansas,Scott,"other counties",N,10870
+Arkansas,Searcy,"other counties",N,7965
+Arkansas,Sebastian,"other counties",N,127273
+Arkansas,Sevier,"other counties",N,17268
+Arkansas,Sharp,"other counties",N,17055
+Arkansas,Stone,"other counties",N,12512
+Arkansas,Union,"other counties",N,40633
+Arkansas,"Van Buren","other counties",N,17002
+Arkansas,Washington,"other counties",N,216432
+Arkansas,White,"other counties",N,78660
+Arkansas,Woodruff,"other counties",N,6983
+Arkansas,Yell,"other counties",N,21835
+California,"SF Bay Area","SF Bay Area",Y,7458169
+California,Alpine,"other counties",N,1131
+California,Amador,"other counties",N,36995
+California,Butte,"other counties",N,222564
+California,Calaveras,"other counties",N,44767
+California,Colusa,"other counties",N,21396
+California,"Del Norte","other counties",N,27788
+California,"El Dorado","other counties",N,182093
+California,Fresno,"other counties",N,956749
+California,Glenn,"other counties",N,28029
+California,Humboldt,"other counties",N,135034
+California,Imperial,"other counties",N,178206
+California,Inyo,"other counties",N,18373
+California,Kern,"other counties",N,865736
+California,Kings,"other counties",N,150998
+California,Lake,"other counties",N,64158
+California,Lassen,"other counties",N,32645
+California,"Greater LA","Greater LA",Y,18388091
+California,Madera,"other counties",N,153187
+California,Mariposa,"other counties",N,17789
+California,Mendocino,"other counties",N,87544
+California,Merced,"other counties",N,263885
+California,Modoc,"other counties",N,9184
+California,Mono,"other counties",N,14146
+California,Monterey,"other counties",N,428441
+California,Nevada,"other counties",N,98570
+California,Placer,"other counties",N,366280
+California,Plumas,"other counties",N,18966
+California,Sacramento,"other counties",N,1465832
+California,"San Benito","other counties",N,57557
+California,"San Diego","other counties",N,3223096
+California,"San Joaquin","other counties",N,708554
+California,"San Luis Obispo","other counties",N,276517
+California,"Santa Barbara","other counties",N,435850
+California,"Santa Cruz","other counties",N,269278
+California,Shasta,"other counties",N,178942
+California,Sierra,"other counties",N,3021
+California,Siskiyou,"other counties",N,43895
+California,Stanislaus,"other counties",N,527367
+California,Sutter,"other counties",N,95247
+California,Tehama,"other counties",N,63152
+California,Trinity,"other counties",N,13373
+California,Tulare,"other counties",N,454033
+California,Tuolumne,"other counties",N,54079
+California,Yolo,"other counties",N,207320
+California,Yuba,"other counties",N,73437
+Colorado,Adams,"other counties",N,471206
+Colorado,Alamosa,"other counties",N,16269
+Colorado,Arapahoe,"other counties",N,608310
+Colorado,Archuleta,"other counties",N,12174
+Colorado,Baca,"other counties",N,3701
+Colorado,Bent,"other counties",N,5895
+Colorado,Boulder,"other counties",N,310032
+Colorado,Broomfield,"other counties",N,60699
+Colorado,Chaffee,"other counties",N,18309
+Colorado,Cheyenne,"other counties",N,2002
+Colorado,"Clear Creek","other counties",N,9136
+Colorado,Conejos,"other counties",N,8249
+Colorado,Costilla,"other counties",N,3581
+Colorado,Crowley,"other counties",N,5551
+Colorado,Custer,"other counties",N,4303
+Colorado,Delta,"other counties",N,30214
+Colorado,Denver,"other counties",N,649654
+Colorado,Dolores,"other counties",N,1862
+Colorado,Douglas,"other counties",N,306974
+Colorado,Eagle,"other counties",N,52576
+Colorado,Elbert,"other counties",N,23855
+Colorado,"El Paso","other counties",N,655024
+Colorado,Fremont,"other counties",N,46809
+Colorado,Garfield,"other counties",N,57076
+Colorado,Gilpin,"other counties",N,5605
+Colorado,Grand,"other counties",N,14411
+Colorado,Gunnison,"other counties",N,15651
+Colorado,Hinsdale,"other counties",N,874
+Colorado,Huerfano,"other counties",N,6502
+Colorado,Jackson,"other counties",N,1335
+Colorado,Jefferson,"other counties",N,552344
+Colorado,Kiowa,"other counties",N,1463
+Colorado,"Kit Carson","other counties",N,7980
+Colorado,Lake,"other counties",N,7362
+Colorado,"La Plata","other counties",N,53182
+Colorado,Larimer,"other counties",N,318227
+Colorado,"Las Animas","other counties",N,14503
+Colorado,Lincoln,"other counties",N,5478
+Colorado,Logan,"other counties",N,21928
+Colorado,Mesa,"other counties",N,147834
+Colorado,Mineral,"other counties",N,733
+Colorado,Moffat,"other counties",N,13117
+Colorado,Montezuma,"other counties",N,25700
+Colorado,Montrose,"other counties",N,40815
+Colorado,Morgan,"other counties",N,28359
+Colorado,Otero,"other counties",N,18572
+Colorado,Ouray,"other counties",N,4580
+Colorado,Park,"other counties",N,16189
+Colorado,Phillips,"other counties",N,4371
+Colorado,Pitkin,"other counties",N,17420
+Colorado,Prowers,"other counties",N,12235
+Colorado,Pueblo,"other counties",N,161519
+Colorado,"Rio Blanco","other counties",N,6712
+Colorado,"Rio Grande","other counties",N,11745
+Colorado,Routt,"other counties",N,23606
+Colorado,Saguache,"other counties",N,6238
+Colorado,"San Juan","other counties",N,606
+Colorado,"San Miguel","other counties",N,7676
+Colorado,Sedgwick,"other counties",N,2365
+Colorado,Summit,"other counties",N,28940
+Colorado,Teller,"other counties",N,23340
+Colorado,Washington,"other counties",N,4795
+Colorado,Weld,"other counties",N,270948
+Colorado,Yuma,"other counties",N,10185
+Connecticut,Fairfield,"other counties",N,939983
+Connecticut,Hartford,"other counties",N,896943
+Connecticut,Litchfield,"other counties",N,186304
+Connecticut,Middlesex,"other counties",N,165165
+Connecticut,"New Haven","other counties",N,862224
+Connecticut,"New London","other counties",N,273185
+Connecticut,Tolland,"other counties",N,151948
+Connecticut,Windham,"other counties",N,117470
+Delaware,Kent,"other counties",N,169509
+Delaware,Wilmington-DE,"Greater Philly",Y,549643
+Delaware,Sussex,"other counties",N,207302
+"District of Columbia",DC-Core,"Metro DC",Y,647484
+Florida,Alachua,"other counties",N,254218
+Florida,Baker,"other counties",N,27135
+Florida,Bay,"other counties",N,175353
+Florida,Bradford,"other counties",N,27223
+Florida,Brevard,"other counties",N,553591
+Florida,"Metro Miami","Metro Miami",Y,5861000
+Florida,Calhoun,"other counties",N,14615
+Florida,Charlotte,"other counties",N,165783
+Florida,Citrus,"other counties",N,139654
+Florida,Clay,"other counties",N,197417
+Florida,Collier,"other counties",N,341091
+Florida,Columbia,"other counties",N,67806
+Florida,DeSoto,"other counties",N,34957
+Florida,Dixie,"other counties",N,16091
+Florida,Duval,"other counties",N,890673
+Florida,Escambia,"other counties",N,306327
+Florida,Flagler,"other counties",N,100783
+Florida,Franklin,"other counties",N,11628
+Florida,Gadsden,"other counties",N,46424
+Florida,Gilchrist,"other counties",N,16992
+Florida,Glades,"other counties",N,13272
+Florida,Gulf,"other counties",N,15785
+Florida,Hamilton,"other counties",N,14395
+Florida,Hardee,"other counties",N,27468
+Florida,Hendry,"other counties",N,38363
+Florida,Hernando,"other counties",N,174809
+Florida,Highlands,"other counties",N,98328
+Florida,Hillsborough,"other counties",N,1302884
+Florida,Holmes,"other counties",N,19635
+Florida,"Indian River","other counties",N,142866
+Florida,Jackson,"other counties",N,48900
+Florida,Jefferson,"other counties",N,14198
+Florida,Lafayette,"other counties",N,8801
+Florida,Lake,"other counties",N,310561
+Florida,Lee,"other counties",N,663675
+Florida,Leon,"other counties",N,282940
+Florida,Levy,"other counties",N,39821
+Florida,Liberty,"other counties",N,8295
+Florida,Madison,"other counties",N,18729
+Florida,Manatee,"other counties",N,343729
+Florida,Marion,"other counties",N,336811
+Florida,Martin,"other counties",N,151586
+Florida,Monroe,"other counties",N,75901
+Florida,Nassau,"other counties",N,75880
+Florida,Okaloosa,"other counties",N,192237
+Florida,Okeechobee,"other counties",N,39255
+Florida,Orange,"other counties",N,1229039
+Florida,Osceola,"other counties",N,300870
+Florida,Pasco,"other counties",N,479288
+Florida,Pinellas,"other counties",N,931477
+Florida,Polk,"other counties",N,626676
+Florida,Putnam,"other counties",N,72696
+Florida,"St. Johns","other counties",N,210495
+Florida,"St. Lucie","other counties",N,288006
+Florida,"Santa Rosa","other counties",N,161021
+Florida,Sarasota,"other counties",N,392038
+Florida,Seminole,"other counties",N,437346
+Florida,Sumter,"other counties",N,108501
+Florida,Suwannee,"other counties",N,43595
+Florida,Taylor,"other counties",N,22685
+Florida,Union,"other counties",N,15191
+Florida,Volusia,"other counties",N,503719
+Florida,Wakulla,"other counties",N,31128
+Florida,Walton,"other counties",N,59487
+Florida,Washington,"other counties",N,24629
+Georgia,Appling,"other counties",N,18417
+Georgia,Atkinson,"other counties",N,8294
+Georgia,Bacon,"other counties",N,11222
+Georgia,Baker,"other counties",N,3292
+Georgia,Baldwin,"other counties",N,45795
+Georgia,Banks,"other counties",N,18336
+Georgia,"Metro Atlanta","Metro Atlanta",Y,5535837
+Georgia,"Ben Hill","other counties",N,17477
+Georgia,Berrien,"other counties",N,19019
+Georgia,Bibb,"other counties",N,154816
+Georgia,Bleckley,"other counties",N,12746
+Georgia,Brantley,"other counties",N,18452
+Georgia,Brooks,"other counties",N,15637
+Georgia,Bryan,"other counties",N,33151
+Georgia,Bulloch,"other counties",N,72386
+Georgia,Burke,"other counties",N,23007
+Georgia,Calhoun,"other counties",N,6489
+Georgia,Camden,"other counties",N,51445
+Georgia,Candler,"other counties",N,11031
+Georgia,Catoosa,"other counties",N,65375
+Georgia,Charlton,"other counties",N,13130
+Georgia,Chatham,"other counties",N,279290
+Georgia,Chattahoochee,"other counties",N,11914
+Georgia,Chattooga,"other counties",N,25241
+Georgia,Clarke,"other counties",N,120905
+Georgia,Clay,"other counties",N,3104
+Georgia,Clinch,"other counties",N,6791
+Georgia,Coffee,"other counties",N,43003
+Georgia,Colquitt,"other counties",N,46024
+Georgia,Columbia,"other counties",N,136204
+Georgia,Cook,"other counties",N,17033
+Georgia,Crawford,"other counties",N,12539
+Georgia,Crisp,"other counties",N,23314
+Georgia,Dade,"other counties",N,16445
+Georgia,Decatur,"other counties",N,27378
+Georgia,Dodge,"other counties",N,21180
+Georgia,Dooly,"other counties",N,14293
+Georgia,Dougherty,"other counties",N,93310
+Georgia,Early,"other counties",N,10579
+Georgia,Echols,"other counties",N,4048
+Georgia,Effingham,"other counties",N,54630
+Georgia,Elbert,"other counties",N,19537
+Georgia,Emanuel,"other counties",N,22731
+Georgia,Evans,"other counties",N,10814
+Georgia,Fannin,"other counties",N,23742
+Georgia,Floyd,"other counties",N,96169
+Georgia,Franklin,"other counties",N,22110
+Georgia,Gilmer,"other counties",N,28673
+Georgia,Glascock,"other counties",N,3087
+Georgia,Glynn,"other counties",N,81743
+Georgia,Gordon,"other counties",N,55889
+Georgia,Grady,"other counties",N,25243
+Georgia,Greene,"other counties",N,16331
+Georgia,Habersham,"other counties",N,43527
+Georgia,Hall,"other counties",N,187916
+Georgia,Hancock,"other counties",N,8881
+Georgia,Harris,"other counties",N,32776
+Georgia,Hart,"other counties",N,25498
+Georgia,Houston,"other counties",N,147570
+Georgia,Irwin,"other counties",N,9408
+Georgia,Jackson,"other counties",N,61420
+Georgia,"Jeff Davis","other counties",N,14990
+Georgia,Jefferson,"other counties",N,16374
+Georgia,Jenkins,"other counties",N,8922
+Georgia,Johnson,"other counties",N,9794
+Georgia,Jones,"other counties",N,28738
+Georgia,Lanier,"other counties",N,10403
+Georgia,Laurens,"other counties",N,47886
+Georgia,Lee,"other counties",N,28946
+Georgia,Liberty,"other counties",N,64427
+Georgia,Lincoln,"other counties",N,7720
+Georgia,Long,"other counties",N,16588
+Georgia,Lowndes,"other counties",N,113203
+Georgia,Lumpkin,"other counties",N,30921
+Georgia,McDuffie,"other counties",N,21582
+Georgia,McIntosh,"other counties",N,14007
+Georgia,Macon,"other counties",N,14045
+Georgia,Madison,"other counties",N,28232
+Georgia,Marion,"other counties",N,8739
+Georgia,Miller,"other counties",N,5936
+Georgia,Mitchell,"other counties",N,22982
+Georgia,Monroe,"other counties",N,26915
+Georgia,Montgomery,"other counties",N,8968
+Georgia,Murray,"other counties",N,39401
+Georgia,Muscogee,"other counties",N,200285
+Georgia,Oconee,"other counties",N,34400
+Georgia,Oglethorpe,"other counties",N,14688
+Georgia,Peach,"other counties",N,27086
+Georgia,Pierce,"other counties",N,18934
+Georgia,Polk,"other counties",N,41215
+Georgia,Pulaski,"other counties",N,11590
+Georgia,Putnam,"other counties",N,21247
+Georgia,Quitman,"other counties",N,2326
+Georgia,Rabun,"other counties",N,16266
+Georgia,Randolph,"other counties",N,7315
+Georgia,Richmond,"other counties",N,201291
+Georgia,Schley,"other counties",N,5074
+Georgia,Screven,"other counties",N,14206
+Georgia,Seminole,"other counties",N,8769
+Georgia,Stephens,"other counties",N,25620
+Georgia,Stewart,"other counties",N,5868
+Georgia,Sumter,"other counties",N,31429
+Georgia,Talbot,"other counties",N,6490
+Georgia,Taliaferro,"other counties",N,1721
+Georgia,Tattnall,"other counties",N,25302
+Georgia,Taylor,"other counties",N,8401
+Georgia,Telfair,"other counties",N,16416
+Georgia,Terrell,"other counties",N,9213
+Georgia,Thomas,"other counties",N,44824
+Georgia,Tift,"other counties",N,40787
+Georgia,Toombs,"other counties",N,27210
+Georgia,Towns,"other counties",N,10800
+Georgia,Treutlen,"other counties",N,6762
+Georgia,Troup,"other counties",N,68867
+Georgia,Turner,"other counties",N,8338
+Georgia,Twiggs,"other counties",N,8509
+Georgia,Union,"other counties",N,21725
+Georgia,Upson,"other counties",N,26528
+Georgia,Walker,"other counties",N,68285
+Georgia,Ware,"other counties",N,35723
+Georgia,Warren,"other counties",N,5561
+Georgia,Washington,"other counties",N,20785
+Georgia,Wayne,"other counties",N,30046
+Georgia,Webster,"other counties",N,2720
+Georgia,Wheeler,"other counties",N,7956
+Georgia,White,"other counties",N,27791
+Georgia,Whitfield,"other counties",N,103456
+Georgia,Wilcox,"other counties",N,8972
+Georgia,Wilkes,"other counties",N,9991
+Georgia,Wilkinson,"other counties",N,9386
+Georgia,Worth,"other counties",N,21156
+Hawaii,Hawaii,"other counties",N,191482
+Hawaii,Honolulu,"other counties",N,984178
+Hawaii,Kauai,"other counties",N,69691
+Hawaii,Maui,"other counties",N,160863
+Idaho,Ada,"other counties",N,417501
+Idaho,Adams,"other counties",N,3880
+Idaho,Bannock,"other counties",N,83604
+Idaho,"Bear Lake","other counties",N,5939
+Idaho,Benewah,"other counties",N,9088
+Idaho,Bingham,"other counties",N,45407
+Idaho,Blaine,"other counties",N,21309
+Idaho,Boise,"other counties",N,6885
+Idaho,Bonner,"other counties",N,41066
+Idaho,Bonneville,"other counties",N,107788
+Idaho,Boundary,"other counties",N,10961
+Idaho,Butte,"other counties",N,2653
+Idaho,Camas,"other counties",N,1052
+Idaho,Canyon,"other counties",N,198921
+Idaho,Caribou,"other counties",N,6808
+Idaho,Cassia,"other counties",N,23369
+Idaho,Clark,"other counties",N,901
+Idaho,Clearwater,"other counties",N,8560
+Idaho,Custer,"other counties",N,4234
+Idaho,Elmore,"other counties",N,26175
+Idaho,Franklin,"other counties",N,12914
+Idaho,Fremont,"other counties",N,12945
+Idaho,Gem,"other counties",N,16731
+Idaho,Gooding,"other counties",N,15233
+Idaho,Idaho,"other counties",N,16312
+Idaho,Jefferson,"other counties",N,26792
+Idaho,Jerome,"other counties",N,22653
+Idaho,Kootenai,"other counties",N,145046
+Idaho,Latah,"other counties",N,38339
+Idaho,Lemhi,"other counties",N,7790
+Idaho,Lewis,"other counties",N,3812
+Idaho,Lincoln,"other counties",N,5260
+Idaho,Madison,"other counties",N,37916
+Idaho,Minidoka,"other counties",N,20279
+Idaho,"Nez Perce","other counties",N,39779
+Idaho,Oneida,"other counties",N,4245
+Idaho,Owyhee,"other counties",N,11364
+Idaho,Payette,"other counties",N,22700
+Idaho,Power,"other counties",N,7731
+Idaho,Shoshone,"other counties",N,12571
+Idaho,Teton,"other counties",N,10285
+Idaho,"Twin Falls","other counties",N,80004
+Idaho,Valley,"other counties",N,9720
+Idaho,Washington,"other counties",N,10025
+Illinois,Adams,"other counties",N,67081
+Illinois,Alexander,"other counties",N,7364
+Illinois,Bond,"other counties",N,17313
+Illinois,Boone,"other counties",N,53851
+Illinois,Brown,"other counties",N,6859
+Illinois,Bureau,"other counties",N,34115
+Illinois,Calhoun,"other counties",N,4999
+Illinois,Carroll,"other counties",N,14926
+Illinois,Cass,"other counties",N,13254
+Illinois,Champaign,"other counties",N,205766
+Illinois,Christian,"other counties",N,34200
+Illinois,Clark,"other counties",N,16159
+Illinois,Clay,"other counties",N,13582
+Illinois,Clinton,"other counties",N,37929
+Illinois,Coles,"other counties",N,53037
+Illinois,Chicago-Elgin,"Chicago MSA",Y,8660599
+Illinois,Crawford,"other counties",N,19541
+Illinois,Cumberland,"other counties",N,10943
+Illinois,"De Witt","other counties",N,16388
+Illinois,Douglas,"other counties",N,19826
+Illinois,Edgar,"other counties",N,17992
+Illinois,Edwards,"other counties",N,6649
+Illinois,Effingham,"other counties",N,34332
+Illinois,Fayette,"other counties",N,22136
+Illinois,Ford,"other counties",N,13835
+Illinois,Franklin,"other counties",N,39694
+Illinois,Fulton,"other counties",N,36323
+Illinois,Gallatin,"other counties",N,5385
+Illinois,Greene,"other counties",N,13502
+Illinois,Hamilton,"other counties",N,8322
+Illinois,Hancock,"other counties",N,18738
+Illinois,Hardin,"other counties",N,4228
+Illinois,Henderson,"other counties",N,7042
+Illinois,Henry,"other counties",N,49883
+Illinois,Iroquois,"other counties",N,29053
+Illinois,Jackson,"other counties",N,59534
+Illinois,Jasper,"other counties",N,9635
+Illinois,Jefferson,"other counties",N,38578
+Illinois,Jersey,"other counties",N,22625
+Illinois,"Jo Daviess","other counties",N,22397
+Illinois,Johnson,"other counties",N,12829
+Illinois,Kankakee,"other counties",N,112221
+Illinois,Knox,"other counties",N,52112
+Illinois,LaSalle,"other counties",N,112579
+Illinois,Lawrence,"other counties",N,16665
+Illinois,Lee,"other counties",N,35027
+Illinois,Livingston,"other counties",N,37689
+Illinois,Logan,"other counties",N,29956
+Illinois,McDonough,"other counties",N,32009
+Illinois,McLean,"other counties",N,173114
+Illinois,Macon,"other counties",N,109193
+Illinois,Macoupin,"other counties",N,46844
+Illinois,Madison,"other counties",N,267356
+Illinois,Marion,"other counties",N,38665
+Illinois,Marshall,"other counties",N,12173
+Illinois,Mason,"other counties",N,14126
+Illinois,Massac,"other counties",N,15016
+Illinois,Menard,"other counties",N,12611
+Illinois,Mercer,"other counties",N,16107
+Illinois,Monroe,"other counties",N,33539
+Illinois,Montgomery,"other counties",N,29348
+Illinois,Morgan,"other counties",N,35129
+Illinois,Moultrie,"other counties",N,14927
+Illinois,Ogle,"other counties",N,52397
+Illinois,Peoria,"other counties",N,187112
+Illinois,Perry,"other counties",N,21810
+Illinois,Piatt,"other counties",N,16495
+Illinois,Pike,"other counties",N,16144
+Illinois,Pope,"other counties",N,4331
+Illinois,Pulaski,"other counties",N,5871
+Illinois,Putnam,"other counties",N,5822
+Illinois,Randolph,"other counties",N,33069
+Illinois,Richland,"other counties",N,16127
+Illinois,"Rock Island","other counties",N,147161
+Illinois,"St. Clair","other counties",N,267029
+Illinois,Saline,"other counties",N,24783
+Illinois,Sangamon,"other counties",N,199016
+Illinois,Schuyler,"other counties",N,7311
+Illinois,Scott,"other counties",N,5198
+Illinois,Shelby,"other counties",N,22115
+Illinois,Stark,"other counties",N,5859
+Illinois,Stephenson,"other counties",N,46625
+Illinois,Tazewell,"other counties",N,135697
+Illinois,Union,"other counties",N,17551
+Illinois,Vermilion,"other counties",N,80368
+Illinois,Wabash,"other counties",N,11652
+Illinois,Warren,"other counties",N,17701
+Illinois,Washington,"other counties",N,14457
+Illinois,Wayne,"other counties",N,16555
+Illinois,White,"other counties",N,14464
+Illinois,Whiteside,"other counties",N,57525
+Illinois,Williamson,"other counties",N,67121
+Illinois,Winnebago,"other counties",N,290439
+Illinois,Woodford,"other counties",N,39106
+Indiana,Adams,"other counties",N,34642
+Indiana,Allen,"other counties",N,363453
+Indiana,Bartholomew,"other counties",N,79488
+Indiana,Benton,"other counties",N,8752
+Indiana,Blackford,"other counties",N,12476
+Indiana,Boone,"other counties",N,60511
+Indiana,Brown,"other counties",N,15011
+Indiana,Carroll,"other counties",N,20014
+Indiana,Cass,"other counties",N,38476
+Indiana,Clark,"other counties",N,113181
+Indiana,Clay,"other counties",N,26686
+Indiana,Clinton,"other counties",N,32835
+Indiana,Crawford,"other counties",N,10591
+Indiana,Daviess,"other counties",N,32411
+Indiana,Dearborn,"other counties",N,49679
+Indiana,Decatur,"other counties",N,26240
+Indiana,DeKalb,"other counties",N,42449
+Indiana,Delaware,"other counties",N,117335
+Indiana,Dubois,"other counties",N,42291
+Indiana,Elkhart,"other counties",N,200685
+Indiana,Fayette,"other counties",N,23773
+Indiana,Floyd,"other counties",N,75900
+Indiana,Fountain,"other counties",N,16888
+Indiana,Franklin,"other counties",N,22935
+Indiana,Fulton,"other counties",N,20527
+Indiana,Gibson,"other counties",N,33668
+Indiana,Grant,"other counties",N,68896
+Indiana,Greene,"other counties",N,32815
+Indiana,Hamilton,"other counties",N,296635
+Indiana,Hancock,"other counties",N,71328
+Indiana,Harrison,"other counties",N,39230
+Indiana,Hendricks,"other counties",N,153435
+Indiana,Henry,"other counties",N,49146
+Indiana,Howard,"other counties",N,82765
+Indiana,Huntington,"other counties",N,36863
+Indiana,Jackson,"other counties",N,43471
+Indiana,Gary,"Chicago MSA",Y,705671
+Indiana,Jay,"other counties",N,21255
+Indiana,Jefferson,"other counties",N,32453
+Indiana,Jennings,"other counties",N,28113
+Indiana,Johnson,"other counties",N,145645
+Indiana,Knox,"other counties",N,38062
+Indiana,Kosciusko,"other counties",N,77983
+Indiana,LaGrange,"other counties",N,38084
+Indiana,LaPorte,"other counties",N,111280
+Indiana,Lawrence,"other counties",N,45814
+Indiana,Madison,"other counties",N,130280
+Indiana,Marion,"other counties",N,926335
+Indiana,Marshall,"other counties",N,46962
+Indiana,Martin,"other counties",N,10262
+Indiana,Miami,"other counties",N,36211
+Indiana,Monroe,"other counties",N,142404
+Indiana,Montgomery,"other counties",N,38172
+Indiana,Morgan,"other counties",N,69403
+Indiana,Noble,"other counties",N,47546
+Indiana,Ohio,"other counties",N,6033
+Indiana,Orange,"other counties",N,19725
+Indiana,Owen,"other counties",N,21192
+Indiana,Parke,"other counties",N,17107
+Indiana,Perry,"other counties",N,19414
+Indiana,Pike,"other counties",N,12687
+Indiana,Posey,"other counties",N,25567
+Indiana,Pulaski,"other counties",N,13047
+Indiana,Putnam,"other counties",N,37650
+Indiana,Randolph,"other counties",N,25596
+Indiana,Ripley,"other counties",N,28612
+Indiana,Rush,"other counties",N,16991
+Indiana,"St. Joseph","other counties",N,267246
+Indiana,Scott,"other counties",N,23783
+Indiana,Shelby,"other counties",N,44441
+Indiana,Spencer,"other counties",N,20856
+Indiana,Starke,"other counties",N,23117
+Indiana,Steuben,"other counties",N,34267
+Indiana,Sullivan,"other counties",N,21111
+Indiana,Switzerland,"other counties",N,10500
+Indiana,Tippecanoe,"other counties",N,180952
+Indiana,Tipton,"other counties",N,15573
+Indiana,Union,"other counties",N,7299
+Indiana,Vanderburgh,"other counties",N,181305
+Indiana,Vermillion,"other counties",N,15860
+Indiana,Vigo,"other counties",N,108268
+Indiana,Wabash,"other counties",N,32358
+Indiana,Warren,"other counties",N,8367
+Indiana,Warrick,"other counties",N,60995
+Indiana,Washington,"other counties",N,27930
+Indiana,Wayne,"other counties",N,67866
+Indiana,Wells,"other counties",N,27796
+Indiana,White,"other counties",N,24388
+Indiana,Whitley,"other counties",N,33330
+Iowa,Adair,"other counties",N,7426
+Iowa,Adams,"other counties",N,3892
+Iowa,Allamakee,"other counties",N,14060
+Iowa,Appanoose,"other counties",N,12669
+Iowa,Audubon,"other counties",N,5869
+Iowa,Benton,"other counties",N,25803
+Iowa,"Black Hawk","other counties",N,132496
+Iowa,Boone,"other counties",N,26401
+Iowa,Bremer,"other counties",N,24539
+Iowa,Buchanan,"other counties",N,20998
+Iowa,"Buena Vista","other counties",N,20507
+Iowa,Butler,"other counties",N,14966
+Iowa,Calhoun,"other counties",N,9914
+Iowa,Carroll,"other counties",N,20629
+Iowa,Cass,"other counties",N,13590
+Iowa,Cedar,"other counties",N,18375
+Iowa,"Cerro Gordo","other counties",N,43481
+Iowa,Cherokee,"other counties",N,11853
+Iowa,Chickasaw,"other counties",N,12244
+Iowa,Clarke,"other counties",N,9280
+Iowa,Clay,"other counties",N,16537
+Iowa,Clayton,"other counties",N,17806
+Iowa,Clinton,"other counties",N,48365
+Iowa,Crawford,"other counties",N,17252
+Iowa,Dallas,"other counties",N,74892
+Iowa,Davis,"other counties",N,8742
+Iowa,Decatur,"other counties",N,8249
+Iowa,Delaware,"other counties",N,17507
+Iowa,"Des Moines","other counties",N,40208
+Iowa,Dickinson,"other counties",N,16967
+Iowa,Dubuque,"other counties",N,95906
+Iowa,Emmet,"other counties",N,9917
+Iowa,Fayette,"other counties",N,20589
+Iowa,Floyd,"other counties",N,16050
+Iowa,Franklin,"other counties",N,10489
+Iowa,Fremont,"other counties",N,7106
+Iowa,Greene,"other counties",N,9174
+Iowa,Grundy,"other counties",N,12407
+Iowa,Guthrie,"other counties",N,10740
+Iowa,Hamilton,"other counties",N,15297
+Iowa,Hancock,"other counties",N,11092
+Iowa,Hardin,"other counties",N,17393
+Iowa,Harrison,"other counties",N,14467
+Iowa,Henry,"other counties",N,20080
+Iowa,Howard,"other counties",N,9494
+Iowa,Humboldt,"other counties",N,9674
+Iowa,Ida,"other counties",N,7071
+Iowa,Iowa,"other counties",N,16344
+Iowa,Jackson,"other counties",N,19572
+Iowa,Jasper,"other counties",N,36726
+Iowa,Jefferson,"other counties",N,17318
+Iowa,Johnson,"other counties",N,139436
+Iowa,Jones,"other counties",N,20560
+Iowa,Keokuk,"other counties",N,10291
+Iowa,Kossuth,"other counties",N,15280
+Iowa,Lee,"other counties",N,35369
+Iowa,Linn,"other counties",N,216640
+Iowa,Louisa,"other counties",N,11271
+Iowa,Lucas,"other counties",N,8731
+Iowa,Lyon,"other counties",N,11723
+Iowa,Madison,"other counties",N,15644
+Iowa,Mahaska,"other counties",N,22396
+Iowa,Marion,"other counties",N,33248
+Iowa,Marshall,"other counties",N,40962
+Iowa,Mills,"other counties",N,14862
+Iowa,Mitchell,"other counties",N,10762
+Iowa,Monona,"other counties",N,9088
+Iowa,Monroe,"other counties",N,8002
+Iowa,Montgomery,"other counties",N,10465
+Iowa,Muscatine,"other counties",N,42913
+Iowa,O'Brien,"other counties",N,14092
+Iowa,Osceola,"other counties",N,6211
+Iowa,Page,"other counties",N,15660
+Iowa,"Palo Alto","other counties",N,9208
+Iowa,Plymouth,"other counties",N,24853
+Iowa,Pocahontas,"other counties",N,7127
+Iowa,Polk,"other counties",N,452369
+Iowa,Pottawattamie,"other counties",N,93213
+Iowa,Poweshiek,"other counties",N,18705
+Iowa,Ringgold,"other counties",N,5061
+Iowa,Sac,"other counties",N,10101
+Iowa,Scott,"other counties",N,169994
+Iowa,Shelby,"other counties",N,11992
+Iowa,Sioux,"other counties",N,34509
+Iowa,Story,"other counties",N,93586
+Iowa,Tama,"other counties",N,17479
+Iowa,Taylor,"other counties",N,6213
+Iowa,Union,"other counties",N,12575
+Iowa,"Van Buren","other counties",N,7432
+Iowa,Wapello,"other counties",N,35315
+Iowa,Warren,"other counties",N,47542
+Iowa,Washington,"other counties",N,22017
+Iowa,Wayne,"other counties",N,6384
+Iowa,Webster,"other counties",N,37295
+Iowa,Winnebago,"other counties",N,10614
+Iowa,Winneshiek,"other counties",N,20884
+Iowa,Woodbury,"other counties",N,102530
+Iowa,Worth,"other counties",N,7563
+Iowa,Wright,"other counties",N,12936
+Kansas,Allen,"other counties",N,13081
+Kansas,Anderson,"other counties",N,7896
+Kansas,Atchison,"other counties",N,16633
+Kansas,Barber,"other counties",N,4770
+Kansas,Barton,"other counties",N,27399
+Kansas,Bourbon,"other counties",N,14812
+Kansas,Brown,"other counties",N,9880
+Kansas,Butler,"other counties",N,66092
+Kansas,Chase,"other counties",N,2722
+Kansas,Chautauqua,"other counties",N,3520
+Kansas,Cherokee,"other counties",N,20952
+Kansas,Cheyenne,"other counties",N,2682
+Kansas,Clark,"other counties",N,2145
+Kansas,Clay,"other counties",N,8421
+Kansas,Cloud,"other counties",N,9339
+Kansas,Coffey,"other counties",N,8458
+Kansas,Comanche,"other counties",N,2010
+Kansas,Cowley,"other counties",N,36079
+Kansas,Crawford,"other counties",N,39304
+Kansas,Decatur,"other counties",N,2905
+Kansas,Dickinson,"other counties",N,19516
+Kansas,Doniphan,"other counties",N,7859
+Kansas,Douglas,"other counties",N,114967
+Kansas,Edwards,"other counties",N,2991
+Kansas,Elk,"other counties",N,2683
+Kansas,Ellis,"other counties",N,28993
+Kansas,Ellsworth,"other counties",N,6410
+Kansas,Finney,"other counties",N,37133
+Kansas,Ford,"other counties",N,34714
+Kansas,Franklin,"other counties",N,25753
+Kansas,Geary,"other counties",N,36787
+Kansas,Gove,"other counties",N,2735
+Kansas,Graham,"other counties",N,2593
+Kansas,Grant,"other counties",N,7816
+Kansas,Gray,"other counties",N,6065
+Kansas,Greeley,"other counties",N,1224
+Kansas,Greenwood,"other counties",N,6393
+Kansas,Hamilton,"other counties",N,2586
+Kansas,Harper,"other counties",N,5861
+Kansas,Harvey,"other counties",N,34835
+Kansas,Haskell,"other counties",N,4130
+Kansas,Hodgeman,"other counties",N,1939
+Kansas,Jackson,"other counties",N,13400
+Kansas,Jefferson,"other counties",N,18898
+Kansas,Jewell,"other counties",N,3038
+Kansas,Johnson,"other counties",N,566814
+Kansas,Kearny,"other counties",N,3952
+Kansas,Kingman,"other counties",N,7790
+Kansas,Kiowa,"other counties",N,2536
+Kansas,Labette,"other counties",N,21048
+Kansas,Lane,"other counties",N,1674
+Kansas,Leavenworth,"other counties",N,78227
+Kansas,Lincoln,"other counties",N,3154
+Kansas,Linn,"other counties",N,9528
+Kansas,Logan,"other counties",N,2793
+Kansas,Lyon,"other counties",N,33462
+Kansas,McPherson,"other counties",N,29252
+Kansas,Marion,"other counties",N,12290
+Kansas,Marshall,"other counties",N,10005
+Kansas,Meade,"other counties",N,4383
+Kansas,Miami,"other counties",N,32688
+Kansas,Mitchell,"other counties",N,6296
+Kansas,Montgomery,"other counties",N,34184
+Kansas,Morris,"other counties",N,5750
+Kansas,Morton,"other counties",N,3106
+Kansas,Nemaha,"other counties",N,10159
+Kansas,Neosho,"other counties",N,16423
+Kansas,Ness,"other counties",N,3077
+Kansas,Norton,"other counties",N,5590
+Kansas,Osage,"other counties",N,16080
+Kansas,Osborne,"other counties",N,3782
+Kansas,Ottawa,"other counties",N,6048
+Kansas,Pawnee,"other counties",N,6911
+Kansas,Phillips,"other counties",N,5501
+Kansas,Pottawatomie,"other counties",N,22625
+Kansas,Pratt,"other counties",N,9739
+Kansas,Rawlins,"other counties",N,2545
+Kansas,Reno,"other counties",N,64058
+Kansas,Republic,"other counties",N,4806
+Kansas,Rice,"other counties",N,10014
+Kansas,Riley,"other counties",N,75022
+Kansas,Rooks,"other counties",N,5186
+Kansas,Rush,"other counties",N,3184
+Kansas,Russell,"other counties",N,6988
+Kansas,Saline,"other counties",N,55735
+Kansas,Scott,"other counties",N,4928
+Kansas,Sedgwick,"other counties",N,506529
+Kansas,Seward,"other counties",N,23274
+Kansas,Shawnee,"other counties",N,178792
+Kansas,Sheridan,"other counties",N,2531
+Kansas,Sherman,"other counties",N,6054
+Kansas,Smith,"other counties",N,3740
+Kansas,Stafford,"other counties",N,4320
+Kansas,Stanton,"other counties",N,2149
+Kansas,Stevens,"other counties",N,5772
+Kansas,Sumner,"other counties",N,23638
+Kansas,Thomas,"other counties",N,7925
+Kansas,Trego,"other counties",N,2951
+Kansas,Wabaunsee,"other counties",N,6997
+Kansas,Wallace,"other counties",N,1595
+Kansas,Washington,"other counties",N,5686
+Kansas,Wichita,"other counties",N,2204
+Kansas,Wilson,"other counties",N,9061
+Kansas,Woodson,"other counties",N,3211
+Kansas,Wyandotte,"other counties",N,160806
+Kentucky,Adair,"other counties",N,18852
+Kentucky,Allen,"other counties",N,20355
+Kentucky,Anderson,"other counties",N,21761
+Kentucky,Ballard,"other counties",N,8256
+Kentucky,Barren,"other counties",N,42925
+Kentucky,Bath,"other counties",N,11978
+Kentucky,Bell,"other counties",N,27950
+Kentucky,Boone,"other counties",N,124617
+Kentucky,Bourbon,"other counties",N,20013
+Kentucky,Boyd,"other counties",N,48917
+Kentucky,Boyle,"other counties",N,29388
+Kentucky,Bracken,"other counties",N,8425
+Kentucky,Breathitt,"other counties",N,13591
+Kentucky,Breckinridge,"other counties",N,20061
+Kentucky,Bullitt,"other counties",N,76961
+Kentucky,Butler,"other counties",N,12835
+Kentucky,Caldwell,"other counties",N,12826
+Kentucky,Calloway,"other counties",N,38106
+Kentucky,Campbell,"other counties",N,91475
+Kentucky,Carlisle,"other counties",N,4984
+Kentucky,Carroll,"other counties",N,10830
+Kentucky,Carter,"other counties",N,27326
+Kentucky,Casey,"other counties",N,15954
+Kentucky,Christian,"other counties",N,74159
+Kentucky,Clark,"other counties",N,35657
+Kentucky,Clay,"other counties",N,21300
+Kentucky,Clinton,"other counties",N,10188
+Kentucky,Crittenden,"other counties",N,9222
+Kentucky,Cumberland,"other counties",N,6807
+Kentucky,Daviess,"other counties",N,98173
+Kentucky,Edmonson,"other counties",N,12105
+Kentucky,Elliott,"other counties",N,7725
+Kentucky,Estill,"other counties",N,14476
+Kentucky,Fayette,"other counties",N,308306
+Kentucky,Fleming,"other counties",N,14544
+Kentucky,Floyd,"other counties",N,38649
+Kentucky,Franklin,"other counties",N,49778
+Kentucky,Fulton,"other counties",N,6422
+Kentucky,Gallatin,"other counties",N,8567
+Kentucky,Garrard,"other counties",N,16976
+Kentucky,Grant,"other counties",N,24670
+Kentucky,Graves,"other counties",N,37502
+Kentucky,Grayson,"other counties",N,26001
+Kentucky,Green,"other counties",N,11149
+Kentucky,Greenup,"other counties",N,36477
+Kentucky,Hancock,"other counties",N,8669
+Kentucky,Hardin,"other counties",N,107529
+Kentucky,Harlan,"other counties",N,28400
+Kentucky,Harrison,"other counties",N,18648
+Kentucky,Hart,"other counties",N,18441
+Kentucky,Henderson,"other counties",N,46396
+Kentucky,Henry,"other counties",N,15455
+Kentucky,Hickman,"other counties",N,4720
+Kentucky,Hopkins,"other counties",N,46518
+Kentucky,Jackson,"other counties",N,13357
+Kentucky,Jefferson,"other counties",N,755809
+Kentucky,Jessamine,"other counties",N,50328
+Kentucky,Johnson,"other counties",N,23350
+Kentucky,Kenton,"other counties",N,163007
+Kentucky,Knott,"other counties",N,16000
+Kentucky,Knox,"other counties",N,31809
+Kentucky,Larue,"other counties",N,14149
+Kentucky,Laurel,"other counties",N,59751
+Kentucky,Lawrence,"other counties",N,15821
+Kentucky,Lee,"other counties",N,7119
+Kentucky,Leslie,"other counties",N,10997
+Kentucky,Letcher,"other counties",N,23671
+Kentucky,Lewis,"other counties",N,13790
+Kentucky,Lincoln,"other counties",N,24498
+Kentucky,Livingston,"other counties",N,9394
+Kentucky,Logan,"other counties",N,26851
+Kentucky,Lyon,"other counties",N,8402
+Kentucky,McCracken,"other counties",N,65408
+Kentucky,McCreary,"other counties",N,18001
+Kentucky,McLean,"other counties",N,9500
+Kentucky,Madison,"other counties",N,85838
+Kentucky,Magoffin,"other counties",N,12979
+Kentucky,Marion,"other counties",N,19717
+Kentucky,Marshall,"other counties",N,31181
+Kentucky,Martin,"other counties",N,12631
+Kentucky,Mason,"other counties",N,17296
+Kentucky,Meade,"other counties",N,29098
+Kentucky,Menifee,"other counties",N,6343
+Kentucky,Mercer,"other counties",N,21342
+Kentucky,Metcalfe,"other counties",N,9985
+Kentucky,Monroe,"other counties",N,10765
+Kentucky,Montgomery,"other counties",N,27167
+Kentucky,Morgan,"other counties",N,13428
+Kentucky,Muhlenberg,"other counties",N,31309
+Kentucky,Nelson,"other counties",N,44564
+Kentucky,Nicholas,"other counties",N,7075
+Kentucky,Ohio,"other counties",N,24065
+Kentucky,Oldham,"other counties",N,63037
+Kentucky,Owen,"other counties",N,10711
+Kentucky,Owsley,"other counties",N,4616
+Kentucky,Pendleton,"other counties",N,14514
+Kentucky,Perry,"other counties",N,28041
+Kentucky,Pike,"other counties",N,63434
+Kentucky,Powell,"other counties",N,12447
+Kentucky,Pulaski,"other counties",N,63635
+Kentucky,Robertson,"other counties",N,2208
+Kentucky,Rockcastle,"other counties",N,16942
+Kentucky,Rowan,"other counties",N,23608
+Kentucky,Russell,"other counties",N,17669
+Kentucky,Scott,"other counties",N,50178
+Kentucky,Shelby,"other counties",N,44290
+Kentucky,Simpson,"other counties",N,17704
+Kentucky,Spencer,"other counties",N,17577
+Kentucky,Taylor,"other counties",N,24993
+Kentucky,Todd,"other counties",N,12524
+Kentucky,Trigg,"other counties",N,14250
+Kentucky,Trimble,"other counties",N,8783
+Kentucky,Union,"other counties",N,15138
+Kentucky,Warren,"other counties",N,118950
+Kentucky,Washington,"other counties",N,11910
+Kentucky,Wayne,"other counties",N,20655
+Kentucky,Webster,"other counties",N,13357
+Kentucky,Whitley,"other counties",N,35794
+Kentucky,Wolfe,"other counties",N,7261
+Kentucky,Woodford,"other counties",N,25317
+Louisiana,Acadia,"other counties",N,62163
+Louisiana,Allen,"other counties",N,25653
+Louisiana,Ascension,"other counties",N,114738
+Louisiana,Assumption,"other counties",N,23057
+Louisiana,Avoyelles,"other counties",N,41389
+Louisiana,Beauregard,"other counties",N,36259
+Louisiana,Bienville,"other counties",N,13977
+Louisiana,Bossier,"other counties",N,123403
+Louisiana,Caddo,"other counties",N,254742
+Louisiana,Calcasieu,"other counties",N,195887
+Louisiana,Caldwell,"other counties",N,9990
+Louisiana,Cameron,"other counties",N,6706
+Louisiana,Catahoula,"other counties",N,10247
+Louisiana,Claiborne,"other counties",N,16639
+Louisiana,Concordia,"other counties",N,20449
+Louisiana,"De Soto","other counties",N,26965
+Louisiana,"East Baton Rouge","other counties",N,444690
+Louisiana,"East Carroll","other counties",N,7501
+Louisiana,"East Feliciana","other counties",N,19855
+Louisiana,Evangeline,"other counties",N,33768
+Louisiana,Franklin,"other counties",N,20550
+Louisiana,Grant,"other counties",N,22362
+Louisiana,Iberia,"other counties",N,73938
+Louisiana,Iberville,"other counties",N,33229
+Louisiana,Jackson,"other counties",N,16109
+Louisiana,Jefferson,"other counties",N,435092
+Louisiana,"Jefferson Davis","other counties",N,31434
+Louisiana,Lafayette,"other counties",N,231811
+Louisiana,Lafourche,"other counties",N,97474
+Louisiana,LaSalle,"other counties",N,14899
+Louisiana,Lincoln,"other counties",N,47349
+Louisiana,Livingston,"other counties",N,133949
+Louisiana,Madison,"other counties",N,11873
+Louisiana,Morehouse,"other counties",N,27012
+Louisiana,Natchitoches,"other counties",N,39330
+Louisiana,Orleans,"other counties",N,376738
+Louisiana,Ouachita,"other counties",N,155769
+Louisiana,Plaquemines,"other counties",N,23599
+Louisiana,"Pointe Coupee","other counties",N,22498
+Louisiana,Rapides,"other counties",N,132225
+Louisiana,"Red River","other counties",N,8838
+Louisiana,Richland,"other counties",N,20777
+Louisiana,Sabine,"other counties",N,24248
+Louisiana,"St. Bernard","other counties",N,42858
+Louisiana,"St. Charles","other counties",N,52639
+Louisiana,"St. Helena","other counties",N,10818
+Louisiana,"St. James","other counties",N,21650
+Louisiana,"St. John the Baptist","other counties",N,44161
+Louisiana,"St. Landry","other counties",N,83613
+Louisiana,"St. Martin","other counties",N,53126
+Louisiana,"St. Mary","other counties",N,53441
+Louisiana,"St. Tammany","other counties",N,242960
+Louisiana,Tangipahoa,"other counties",N,125486
+Louisiana,Tensas,"other counties",N,4893
+Louisiana,Terrebonne,"other counties",N,112742
+Louisiana,Union,"other counties",N,22533
+Louisiana,Vermilion,"other counties",N,59110
+Louisiana,Vernon,"other counties",N,52476
+Louisiana,Washington,"other counties",N,46556
+Louisiana,Webster,"other counties",N,40617
+Louisiana,"West Baton Rouge","other counties",N,24669
+Louisiana,"West Carroll","other counties",N,11454
+Louisiana,"West Feliciana","other counties",N,15415
+Louisiana,Winn,"other counties",N,14855
+Maine,Androscoggin,"other counties",N,107393
+Maine,Aroostook,"other counties",N,70005
+Maine,Cumberland,"other counties",N,286119
+Maine,Franklin,"other counties",N,30402
+Maine,Hancock,"other counties",N,54658
+Maine,Kennebec,"other counties",N,121112
+Maine,Knox,"other counties",N,39723
+Maine,Lincoln,"other counties",N,34156
+Maine,Oxford,"other counties",N,57421
+Maine,Penobscot,"other counties",N,153437
+Maine,Piscataquis,"other counties",N,17156
+Maine,Sagadahoc,"other counties",N,35092
+Maine,Somerset,"other counties",N,51577
+Maine,Waldo,"other counties",N,38976
+Maine,Washington,"other counties",N,32191
+Maine,York,"other counties",N,199682
+Maryland,Allegany,"other counties",N,73549
+Maryland,"Anne Arundel","other counties",N,555280
+Maryland,Baltimore,"other counties",N,822959
+Maryland,DC-MD,"Metro DC",Y,2394916
+Maryland,Caroline,"other counties",N,32661
+Maryland,Carroll,"other counties",N,167444
+Maryland,Wilmington-MD,"Greater Philly",Y,101960
+Maryland,Dorchester,"other counties",N,32534
+Maryland,Garrett,"other counties",N,29813
+Maryland,Harford,"other counties",N,248966
+Maryland,Howard,"other counties",N,304115
+Maryland,Kent,"other counties",N,19923
+Maryland,"Queen Anne's","other counties",N,48600
+Maryland,"St. Mary's","other counties",N,109614
+Maryland,Somerset,"other counties",N,25980
+Maryland,Talbot,"other counties",N,37799
+Maryland,Washington,"other counties",N,149270
+Maryland,Wicomico,"other counties",N,101182
+Maryland,Worcester,"other counties",N,51519
+Maryland,"Baltimore city","other counties",N,622454
+Massachusetts,Barnstable,"other counties",N,214766
+Massachusetts,Berkshire,"other counties",N,129288
+Massachusetts,Bristol,"other counties",N,552763
+Massachusetts,Dukes,"other counties",N,17048
+Massachusetts,"Greater Boston","Greater Boston",Y,4270286
+Massachusetts,Franklin,"other counties",N,71144
+Massachusetts,Hampden,"other counties",N,468041
+Massachusetts,Hampshire,"other counties",N,160759
+Massachusetts,Nantucket,"other counties",N,10556
+Massachusetts,Worcester,"other counties",N,810935
+Michigan,Alcona,"other counties",N,10550
+Michigan,Alger,"other counties",N,9476
+Michigan,Allegan,"other counties",N,112837
+Michigan,Alpena,"other counties",N,29068
+Michigan,Antrim,"other counties",N,23267
+Michigan,Arenac,"other counties",N,15424
+Michigan,Baraga,"other counties",N,8690
+Michigan,Barry,"other counties",N,59147
+Michigan,Bay,"other counties",N,106698
+Michigan,Benzie,"other counties",N,17437
+Michigan,Berrien,"other counties",N,155565
+Michigan,Branch,"other counties",N,43706
+Michigan,Calhoun,"other counties",N,134790
+Michigan,Cass,"other counties",N,51952
+Michigan,Charlevoix,"other counties",N,26134
+Michigan,Cheboygan,"other counties",N,25690
+Michigan,Chippewa,"other counties",N,38586
+Michigan,Clare,"other counties",N,30710
+Michigan,Clinton,"other counties",N,76905
+Michigan,Crawford,"other counties",N,13895
+Michigan,Delta,"other counties",N,36712
+Michigan,Dickinson,"other counties",N,26012
+Michigan,Eaton,"other counties",N,108341
+Michigan,Emmet,"other counties",N,33018
+Michigan,Genesee,"other counties",N,415874
+Michigan,Gladwin,"other counties",N,25501
+Michigan,Gogebic,"other counties",N,15824
+Michigan,"Grand Traverse","other counties",N,89907
+Michigan,Gratiot,"other counties",N,41878
+Michigan,Hillsdale,"other counties",N,46178
+Michigan,Houghton,"other counties",N,36660
+Michigan,Huron,"other counties",N,32290
+Michigan,Ingham,"other counties",N,283491
+Michigan,Ionia,"other counties",N,64064
+Michigan,Iosco,"other counties",N,25401
+Michigan,Iron,"other counties",N,11507
+Michigan,Isabella,"other counties",N,70669
+Michigan,Jackson,"other counties",N,159759
+Michigan,Kalamazoo,"other counties",N,256752
+Michigan,Kalkaska,"other counties",N,17230
+Michigan,Kent,"other counties",N,622590
+Michigan,Keweenaw,"other counties",N,2198
+Michigan,Lake,"other counties",N,11426
+Michigan,Lapeer,"other counties",N,88235
+Michigan,Leelanau,"other counties",N,21772
+Michigan,Lenawee,"other counties",N,98902
+Michigan,Livingston,"other counties",N,184591
+Michigan,Luce,"other counties",N,6477
+Michigan,Mackinac,"other counties",N,11044
+Michigan,Macomb,"other counties",N,854689
+Michigan,Manistee,"other counties",N,24536
+Michigan,Marquette,"other counties",N,67582
+Michigan,Mason,"other counties",N,28711
+Michigan,Mecosta,"other counties",N,43301
+Michigan,Menominee,"other counties",N,23717
+Michigan,Midland,"other counties",N,83624
+Michigan,Missaukee,"other counties",N,14988
+Michigan,Monroe,"other counties",N,150436
+Michigan,Montcalm,"other counties",N,63004
+Michigan,Montmorency,"other counties",N,9401
+Michigan,Muskegon,"other counties",N,171483
+Michigan,Newaygo,"other counties",N,48029
+Michigan,Oakland,"other counties",N,1229503
+Michigan,Oceana,"other counties",N,26229
+Michigan,Ogemaw,"other counties",N,21222
+Michigan,Ontonagon,"other counties",N,6298
+Michigan,Osceola,"other counties",N,23234
+Michigan,Oscoda,"other counties",N,8444
+Michigan,Otsego,"other counties",N,24141
+Michigan,Ottawa,"other counties",N,273136
+Michigan,"Presque Isle","other counties",N,13037
+Michigan,Roscommon,"other counties",N,24068
+Michigan,Saginaw,"other counties",N,196479
+Michigan,"St. Clair","other counties",N,160429
+Michigan,"St. Joseph","other counties",N,61022
+Michigan,Sanilac,"other counties",N,42014
+Michigan,Schoolcraft,"other counties",N,8288
+Michigan,Shiawassee,"other counties",N,69113
+Michigan,Tuscola,"other counties",N,54420
+Michigan,"Van Buren","other counties",N,75351
+Michigan,Washtenaw,"other counties",N,354092
+Michigan,Wayne,"other counties",N,1778969
+Michigan,Wexford,"other counties",N,32751
+Minnesota,Aitkin,"other counties",N,15839
+Minnesota,Anoka,"other counties",N,338764
+Minnesota,Becker,"other counties",N,33138
+Minnesota,Beltrami,"other counties",N,45434
+Minnesota,Benton,"other counties",N,39221
+Minnesota,"Big Stone","other counties",N,5134
+Minnesota,"Blue Earth","other counties",N,65125
+Minnesota,Brown,"other counties",N,25391
+Minnesota,Carlton,"other counties",N,35443
+Minnesota,Carver,"other counties",N,95715
+Minnesota,Cass,"other counties",N,28519
+Minnesota,Chippewa,"other counties",N,12154
+Minnesota,Chisago,"other counties",N,53834
+Minnesota,Clay,"other counties",N,60879
+Minnesota,Clearwater,"other counties",N,8752
+Minnesota,Cook,"other counties",N,5194
+Minnesota,Cottonwood,"other counties",N,11632
+Minnesota,"Crow Wing","other counties",N,63048
+Minnesota,Dakota,"other counties",N,408456
+Minnesota,Dodge,"other counties",N,20290
+Minnesota,Douglas,"other counties",N,36620
+Minnesota,Faribault,"other counties",N,14230
+Minnesota,Fillmore,"other counties",N,20843
+Minnesota,Freeborn,"other counties",N,30897
+Minnesota,Goodhue,"other counties",N,46377
+Minnesota,Grant,"other counties",N,5961
+Minnesota,Hennepin,"other counties",N,1197776
+Minnesota,Houston,"other counties",N,18812
+Minnesota,Hubbard,"other counties",N,20574
+Minnesota,Isanti,"other counties",N,38296
+Minnesota,Itasca,"other counties",N,45354
+Minnesota,Jackson,"other counties",N,10211
+Minnesota,Kanabec,"other counties",N,16003
+Minnesota,Kandiyohi,"other counties",N,42444
+Minnesota,Kittson,"other counties",N,4480
+Minnesota,Koochiching,"other counties",N,13054
+Minnesota,"Lac qui Parle","other counties",N,7023
+Minnesota,Lake,"other counties",N,10750
+Minnesota,"Lake of the Woods","other counties",N,3949
+Minnesota,"Le Sueur","other counties",N,27707
+Minnesota,Lincoln,"other counties",N,5808
+Minnesota,Lyon,"other counties",N,25699
+Minnesota,McLeod,"other counties",N,36046
+Minnesota,Mahnomen,"other counties",N,5496
+Minnesota,Marshall,"other counties",N,9453
+Minnesota,Martin,"other counties",N,20350
+Minnesota,Meeker,"other counties",N,23129
+Minnesota,"Mille Lacs","other counties",N,25809
+Minnesota,Morrison,"other counties",N,32962
+Minnesota,Mower,"other counties",N,39227
+Minnesota,Murray,"other counties",N,8529
+Minnesota,Nicollet,"other counties",N,33086
+Minnesota,Nobles,"other counties",N,21687
+Minnesota,Norman,"other counties",N,6692
+Minnesota,Olmsted,"other counties",N,148736
+Minnesota,"Otter Tail","other counties",N,57511
+Minnesota,Pennington,"other counties",N,14110
+Minnesota,Pine,"other counties",N,29218
+Minnesota,Pipestone,"other counties",N,9354
+Minnesota,Polk,"other counties",N,31547
+Minnesota,Pope,"other counties",N,10948
+Minnesota,Ramsey,"other counties",N,527411
+Minnesota,"Red Lake","other counties",N,4061
+Minnesota,Redwood,"other counties",N,15723
+Minnesota,Renville,"other counties",N,15171
+Minnesota,Rice,"other counties",N,64886
+Minnesota,Rock,"other counties",N,9563
+Minnesota,Roseau,"other counties",N,15615
+Minnesota,"St. Louis","other counties",N,200506
+Minnesota,Scott,"other counties",N,137322
+Minnesota,Sherburne,"other counties",N,90401
+Minnesota,Sibley,"other counties",N,15021
+Minnesota,Stearns,"other counties",N,152595
+Minnesota,Steele,"other counties",N,36523
+Minnesota,Stevens,"other counties",N,9771
+Minnesota,Swift,"other counties",N,9525
+Minnesota,Todd,"other counties",N,24466
+Minnesota,Traverse,"other counties",N,3429
+Minnesota,Wabasha,"other counties",N,21381
+Minnesota,Wadena,"other counties",N,13759
+Minnesota,Waseca,"other counties",N,19076
+Minnesota,Washington,"other counties",N,246670
+Minnesota,Watonwan,"other counties",N,11054
+Minnesota,Wilkin,"other counties",N,6526
+Minnesota,Winona,"other counties",N,51213
+Minnesota,Wright,"other counties",N,128691
+Minnesota,"Yellow Medicine","other counties",N,10092
+Mississippi,Adams,"other counties",N,31979
+Mississippi,Alcorn,"other counties",N,37319
+Mississippi,Amite,"other counties",N,12840
+Mississippi,Attala,"other counties",N,19175
+Mississippi,Benton,"other counties",N,8470
+Mississippi,Bolivar,"other counties",N,33803
+Mississippi,Calhoun,"other counties",N,14789
+Mississippi,Carroll,"other counties",N,10338
+Mississippi,Chickasaw,"other counties",N,17391
+Mississippi,Choctaw,"other counties",N,8354
+Mississippi,Claiborne,"other counties",N,9330
+Mississippi,Clarke,"other counties",N,16362
+Mississippi,Clay,"other counties",N,20279
+Mississippi,Coahoma,"other counties",N,25254
+Mississippi,Copiah,"other counties",N,28921
+Mississippi,Covington,"other counties",N,19471
+Mississippi,DeSoto,"other counties",N,168586
+Mississippi,Forrest,"other counties",N,76267
+Mississippi,Franklin,"other counties",N,7857
+Mississippi,George,"other counties",N,23104
+Mississippi,Greene,"other counties",N,14129
+Mississippi,Grenada,"other counties",N,21591
+Mississippi,Hancock,"other counties",N,45627
+Mississippi,Harrison,"other counties",N,196268
+Mississippi,Hinds,"other counties",N,245874
+Mississippi,Holmes,"other counties",N,18772
+Mississippi,Humphreys,"other counties",N,8984
+Mississippi,Issaquena,"other counties",N,1291
+Mississippi,Itawamba,"other counties",N,23451
+Mississippi,Jackson,"other counties",N,140676
+Mississippi,Jasper,"other counties",N,16588
+Mississippi,Jefferson,"other counties",N,7586
+Mississippi,"Jefferson Davis","other counties",N,11941
+Mississippi,Jones,"other counties",N,68276
+Mississippi,Kemper,"other counties",N,10211
+Mississippi,Lafayette,"other counties",N,51169
+Mississippi,Lamar,"other counties",N,58885
+Mississippi,Lauderdale,"other counties",N,79832
+Mississippi,Lawrence,"other counties",N,12586
+Mississippi,Leake,"other counties",N,23153
+Mississippi,Lee,"other counties",N,85036
+Mississippi,Leflore,"other counties",N,31516
+Mississippi,Lincoln,"other counties",N,34765
+Mississippi,Lowndes,"other counties",N,59699
+Mississippi,Madison,"other counties",N,100202
+Mississippi,Marion,"other counties",N,26109
+Mississippi,Marshall,"other counties",N,36385
+Mississippi,Monroe,"other counties",N,36175
+Mississippi,Montgomery,"other counties",N,10464
+Mississippi,Neshoba,"other counties",N,29553
+Mississippi,Newton,"other counties",N,21663
+Mississippi,Noxubee,"other counties",N,11143
+Mississippi,Oktibbeha,"other counties",N,49048
+Mississippi,Panola,"other counties",N,34373
+Mississippi,"Pearl River","other counties",N,55196
+Mississippi,Perry,"other counties",N,12187
+Mississippi,Pike,"other counties",N,40075
+Mississippi,Pontotoc,"other counties",N,30517
+Mississippi,Prentiss,"other counties",N,25380
+Mississippi,Quitman,"other counties",N,7761
+Mississippi,Rankin,"other counties",N,146761
+Mississippi,Scott,"other counties",N,28293
+Mississippi,Sharkey,"other counties",N,4805
+Mississippi,Simpson,"other counties",N,27401
+Mississippi,Smith,"other counties",N,16257
+Mississippi,Stone,"other counties",N,17978
+Mississippi,Sunflower,"other counties",N,27911
+Mississippi,Tallahatchie,"other counties",N,14959
+Mississippi,Tate,"other counties",N,28415
+Mississippi,Tippah,"other counties",N,22054
+Mississippi,Tishomingo,"other counties",N,19539
+Mississippi,Tunica,"other counties",N,10477
+Mississippi,Union,"other counties",N,27811
+Mississippi,Walthall,"other counties",N,14978
+Mississippi,Warren,"other counties",N,48020
+Mississippi,Washington,"other counties",N,49499
+Mississippi,Wayne,"other counties",N,20564
+Mississippi,Webster,"other counties",N,9999
+Mississippi,Wilkinson,"other counties",N,9345
+Mississippi,Winston,"other counties",N,18697
+Mississippi,Yalobusha,"other counties",N,12381
+Mississippi,Yazoo,"other counties",N,27911
+Missouri,Adair,"other counties",N,25560
+Missouri,Andrew,"other counties",N,17328
+Missouri,Atchison,"other counties",N,5440
+Missouri,Audrain,"other counties",N,25783
+Missouri,Barry,"other counties",N,35726
+Missouri,Barton,"other counties",N,12166
+Missouri,Bates,"other counties",N,16643
+Missouri,Benton,"other counties",N,18854
+Missouri,Bollinger,"other counties",N,12356
+Missouri,Boone,"other counties",N,170770
+Missouri,Buchanan,"other counties",N,89561
+Missouri,Butler,"other counties",N,42951
+Missouri,Caldwell,"other counties",N,9083
+Missouri,Callaway,"other counties",N,44566
+Missouri,Camden,"other counties",N,43927
+Missouri,"Cape Girardeau","other counties",N,77606
+Missouri,Carroll,"other counties",N,9096
+Missouri,Carter,"other counties",N,6284
+Missouri,Cass,"other counties",N,100781
+Missouri,Cedar,"other counties",N,13892
+Missouri,Chariton,"other counties",N,7650
+Missouri,Christian,"other counties",N,80904
+Missouri,Clark,"other counties",N,6919
+Missouri,Clay,"other counties",N,230361
+Missouri,Clinton,"other counties",N,20498
+Missouri,Cole,"other counties",N,76533
+Missouri,Cooper,"other counties",N,17593
+Missouri,Crawford,"other counties",N,24660
+Missouri,Dade,"other counties",N,7618
+Missouri,Dallas,"other counties",N,16564
+Missouri,Daviess,"other counties",N,8277
+Missouri,DeKalb,"other counties",N,12782
+Missouri,Dent,"other counties",N,15612
+Missouri,Douglas,"other counties",N,13516
+Missouri,Dunklin,"other counties",N,31562
+Missouri,Franklin,"other counties",N,101828
+Missouri,Gasconade,"other counties",N,14948
+Missouri,Gentry,"other counties",N,6785
+Missouri,Greene,"other counties",N,283206
+Missouri,Grundy,"other counties",N,10256
+Missouri,Harrison,"other counties",N,8722
+Missouri,Henry,"other counties",N,22034
+Missouri,Hickory,"other counties",N,9335
+Missouri,Holt,"other counties",N,4615
+Missouri,Howard,"other counties",N,10182
+Missouri,Howell,"other counties",N,40326
+Missouri,Iron,"other counties",N,10322
+Missouri,Jackson,"other counties",N,680905
+Missouri,Jasper,"other counties",N,117184
+Missouri,Jefferson,"other counties",N,221577
+Missouri,Johnson,"other counties",N,54155
+Missouri,Knox,"other counties",N,4035
+Missouri,Laclede,"other counties",N,35514
+Missouri,Lafayette,"other counties",N,32916
+Missouri,Lawrence,"other counties",N,38244
+Missouri,Lewis,"other counties",N,10172
+Missouri,Lincoln,"other counties",N,53850
+Missouri,Linn,"other counties",N,12401
+Missouri,Livingston,"other counties",N,15042
+Missouri,McDonald,"other counties",N,22763
+Missouri,Macon,"other counties",N,15460
+Missouri,Madison,"other counties",N,12401
+Missouri,Maries,"other counties",N,9057
+Missouri,Marion,"other counties",N,28840
+Missouri,Mercer,"other counties",N,3718
+Missouri,Miller,"other counties",N,24956
+Missouri,Mississippi,"other counties",N,14208
+Missouri,Moniteau,"other counties",N,15801
+Missouri,Monroe,"other counties",N,8680
+Missouri,Montgomery,"other counties",N,11939
+Missouri,Morgan,"other counties",N,20225
+Missouri,"New Madrid","other counties",N,18411
+Missouri,Newton,"other counties",N,58777
+Missouri,Nodaway,"other counties",N,23186
+Missouri,Oregon,"other counties",N,10979
+Missouri,Osage,"other counties",N,13758
+Missouri,Ozark,"other counties",N,9537
+Missouri,Pemiscot,"other counties",N,17837
+Missouri,Perry,"other counties",N,19100
+Missouri,Pettis,"other counties",N,42215
+Missouri,Phelps,"other counties",N,45029
+Missouri,Pike,"other counties",N,18517
+Missouri,Platte,"other counties",N,93394
+Missouri,Polk,"other counties",N,31107
+Missouri,Pulaski,"other counties",N,53443
+Missouri,Putnam,"other counties",N,4895
+Missouri,Ralls,"other counties",N,10243
+Missouri,Randolph,"other counties",N,25135
+Missouri,Ray,"other counties",N,23031
+Missouri,Reynolds,"other counties",N,6578
+Missouri,Ripley,"other counties",N,13990
+Missouri,"St. Charles","other counties",N,374805
+Missouri,"St. Clair","other counties",N,9520
+Missouri,"Ste. Genevieve","other counties",N,17990
+Missouri,"St. Francois","other counties",N,66010
+Missouri,"St. Louis","other counties",N,1001327
+Missouri,Saline,"other counties",N,23334
+Missouri,Schuyler,"other counties",N,4395
+Missouri,Scotland,"other counties",N,4873
+Missouri,Scott,"other counties",N,39061
+Missouri,Shannon,"other counties",N,8317
+Missouri,Shelby,"other counties",N,6179
+Missouri,Stoddard,"other counties",N,29837
+Missouri,Stone,"other counties",N,31375
+Missouri,Sullivan,"other counties",N,6512
+Missouri,Taney,"other counties",N,53555
+Missouri,Texas,"other counties",N,25735
+Missouri,Vernon,"other counties",N,20878
+Missouri,Warren,"other counties",N,33043
+Missouri,Washington,"other counties",N,25048
+Missouri,Wayne,"other counties",N,13397
+Missouri,Webster,"other counties",N,36690
+Missouri,Worth,"other counties",N,2082
+Missouri,Wright,"other counties",N,18449
+Missouri,"St. Louis city","other counties",N,317850
+Montana,Beaverhead,"other counties",N,9291
+Montana,"Big Horn","other counties",N,13141
+Montana,Blaine,"other counties",N,6598
+Montana,Broadwater,"other counties",N,5692
+Montana,Carbon,"other counties",N,10268
+Montana,Carter,"other counties",N,1227
+Montana,Cascade,"other counties",N,82090
+Montana,Chouteau,"other counties",N,5855
+Montana,Custer,"other counties",N,11945
+Montana,Daniels,"other counties",N,1758
+Montana,Dawson,"other counties",N,9365
+Montana,"Deer Lodge","other counties",N,9211
+Montana,Fallon,"other counties",N,3057
+Montana,Fergus,"other counties",N,11468
+Montana,Flathead,"other counties",N,93333
+Montana,Gallatin,"other counties",N,95323
+Montana,Garfield,"other counties",N,1047
+Montana,Glacier,"other counties",N,13672
+Montana,"Golden Valley","other counties",N,756
+Montana,Granite,"other counties",N,3168
+Montana,Hill,"other counties",N,16523
+Montana,Jefferson,"other counties",N,11502
+Montana,"Judith Basin","other counties",N,1997
+Montana,Lake,"other counties",N,29157
+Montana,"Lewis and Clark","other counties",N,65357
+Montana,Liberty,"other counties",N,2369
+Montana,Lincoln,"other counties",N,19337
+Montana,McCone,"other counties",N,1728
+Montana,Madison,"other counties",N,7767
+Montana,Meagher,"other counties",N,1898
+Montana,Mineral,"other counties",N,4238
+Montana,Missoula,"other counties",N,111966
+Montana,Musselshell,"other counties",N,4790
+Montana,Park,"other counties",N,15708
+Montana,Petroleum,"other counties",N,443
+Montana,Phillips,"other counties",N,4167
+Montana,Pondera,"other counties",N,6206
+Montana,"Powder River","other counties",N,1703
+Montana,Powell,"other counties",N,6975
+Montana,Prairie,"other counties",N,1372
+Montana,Ravalli,"other counties",N,40823
+Montana,Richland,"other counties",N,11132
+Montana,Roosevelt,"other counties",N,11072
+Montana,Rosebud,"other counties",N,9352
+Montana,Sanders,"other counties",N,11346
+Montana,Sheridan,"other counties",N,3630
+Montana,"Silver Bow","other counties",N,34549
+Montana,Stillwater,"other counties",N,9288
+Montana,"Sweet Grass","other counties",N,3633
+Montana,Teton,"other counties",N,6074
+Montana,Toole,"other counties",N,5150
+Montana,Treasure,"other counties",N,812
+Montana,Valley,"other counties",N,7577
+Montana,Wheatland,"other counties",N,2115
+Montana,Wibaux,"other counties",N,986
+Montana,Yellowstone,"other counties",N,153692
+Nebraska,Adams,"other counties",N,31442
+Nebraska,Antelope,"other counties",N,6486
+Nebraska,Arthur,"other counties",N,448
+Nebraska,Banner,"other counties",N,820
+Nebraska,Blaine,"other counties",N,551
+Nebraska,Boone,"other counties",N,5373
+Nebraska,"Box Butte","other counties",N,11310
+Nebraska,Boyd,"other counties",N,2039
+Nebraska,Brown,"other counties",N,3078
+Nebraska,Buffalo,"other counties",N,47958
+Nebraska,Burt,"other counties",N,6647
+Nebraska,Butler,"other counties",N,8256
+Nebraska,Cass,"other counties",N,25360
+Nebraska,Cedar,"other counties",N,8675
+Nebraska,Chase,"other counties",N,3897
+Nebraska,Cherry,"other counties",N,5770
+Nebraska,Cheyenne,"other counties",N,10077
+Nebraska,Clay,"other counties",N,6382
+Nebraska,Colfax,"other counties",N,10522
+Nebraska,Cuming,"other counties",N,9078
+Nebraska,Custer,"other counties",N,10802
+Nebraska,Dakota,"other counties",N,20798
+Nebraska,Dawes,"other counties",N,9136
+Nebraska,Dawson,"other counties",N,24069
+Nebraska,Deuel,"other counties",N,1946
+Nebraska,Dixon,"other counties",N,5866
+Nebraska,Dodge,"other counties",N,36725
+Nebraska,Douglas,"other counties",N,537655
+Nebraska,Dundy,"other counties",N,2015
+Nebraska,Fillmore,"other counties",N,5697
+Nebraska,Franklin,"other counties",N,3105
+Nebraska,Frontier,"other counties",N,2573
+Nebraska,Furnas,"other counties",N,4887
+Nebraska,Gage,"other counties",N,21818
+Nebraska,Garden,"other counties",N,1823
+Nebraska,Garfield,"other counties",N,1933
+Nebraska,Gosper,"other counties",N,1976
+Nebraska,Grant,"other counties",N,769
+Nebraska,Greeley,"other counties",N,2476
+Nebraska,Hall,"other counties",N,60792
+Nebraska,Hamilton,"other counties",N,9100
+Nebraska,Harlan,"other counties",N,3458
+Nebraska,Hayes,"other counties",N,1084
+Nebraska,Hitchcock,"other counties",N,2879
+Nebraska,Holt,"other counties",N,10398
+Nebraska,Hooker,"other counties",N,681
+Nebraska,Howard,"other counties",N,6347
+Nebraska,Jefferson,"other counties",N,7433
+Nebraska,Johnson,"other counties",N,5167
+Nebraska,Kearney,"other counties",N,6549
+Nebraska,Keith,"other counties",N,8146
+Nebraska,"Keya Paha","other counties",N,711
+Nebraska,Kimball,"other counties",N,3720
+Nebraska,Knox,"other counties",N,8556
+Nebraska,Lancaster,"other counties",N,298080
+Nebraska,Lincoln,"other counties",N,35896
+Nebraska,Logan,"other counties",N,851
+Nebraska,Loup,"other counties",N,548
+Nebraska,McPherson,"other counties",N,433
+Nebraska,Madison,"other counties",N,35111
+Nebraska,Merrick,"other counties",N,7776
+Nebraska,Morrill,"other counties",N,4874
+Nebraska,Nance,"other counties",N,3639
+Nebraska,Nemaha,"other counties",N,7168
+Nebraska,Nuckolls,"other counties",N,4391
+Nebraska,Otoe,"other counties",N,15842
+Nebraska,Pawnee,"other counties",N,2726
+Nebraska,Perkins,"other counties",N,2924
+Nebraska,Phelps,"other counties",N,9216
+Nebraska,Pierce,"other counties",N,7184
+Nebraska,Platte,"other counties",N,32642
+Nebraska,Polk,"other counties",N,5271
+Nebraska,"Red Willow","other counties",N,10946
+Nebraska,Richardson,"other counties",N,8201
+Nebraska,Rock,"other counties",N,1401
+Nebraska,Saline,"other counties",N,14360
+Nebraska,Sarpy,"other counties",N,169192
+Nebraska,Saunders,"other counties",N,20913
+Nebraska,"Scotts Bluff","other counties",N,36684
+Nebraska,Seward,"other counties",N,16998
+Nebraska,Sheridan,"other counties",N,5294
+Nebraska,Sherman,"other counties",N,3107
+Nebraska,Sioux,"other counties",N,1249
+Nebraska,Stanton,"other counties",N,6081
+Nebraska,Thayer,"other counties",N,5182
+Nebraska,Thomas,"other counties",N,675
+Nebraska,Thurston,"other counties",N,6946
+Nebraska,Valley,"other counties",N,4254
+Nebraska,Washington,"other counties",N,20257
+Nebraska,Wayne,"other counties",N,9425
+Nebraska,Webster,"other counties",N,3697
+Nebraska,Wheeler,"other counties",N,847
+Nebraska,York,"other counties",N,13825
+Nevada,Churchill,"other counties",N,24252
+Nevada,Clark,"other counties",N,2035572
+Nevada,Douglas,"other counties",N,47259
+Nevada,Elko,"other counties",N,51562
+Nevada,Esmeralda,"other counties",N,1141
+Nevada,Eureka,"other counties",N,1669
+Nevada,Humboldt,"other counties",N,17067
+Nevada,Lander,"other counties",N,5946
+Nevada,Lincoln,"other counties",N,5194
+Nevada,Lyon,"other counties",N,51657
+Nevada,Mineral,"other counties",N,4566
+Nevada,Nye,"other counties",N,42625
+Nevada,Pershing,"other counties",N,6722
+Nevada,Storey,"other counties",N,3929
+Nevada,Washoe,"other counties",N,435019
+Nevada,"White Pine","other counties",N,9974
+Nevada,"Carson City","other counties",N,54482
+"New Hampshire",Belknap,"other counties",N,60399
+"New Hampshire",Carroll,"other counties",N,47513
+"New Hampshire",Cheshire,"other counties",N,76430
+"New Hampshire",Coos,"other counties",N,31870
+"New Hampshire",Grafton,"other counties",N,89341
+"New Hampshire",Hillsborough,"other counties",N,403972
+"New Hampshire",Merrimack,"other counties",N,147262
+"New Hampshire","Greater Boston","Greater Boston",Y,424279
+"New Hampshire",Sullivan,"other counties",N,43135
+"New Jersey",Atlantic,"other counties",N,275376
+"New Jersey","Tri State Ex NYC-NJ","Tri State",Y,6580787
+"New Jersey","Camden Area","Greater Philly",Y,1252852
+"New Jersey","Cape May","other counties",N,95805
+"New Jersey",Cumberland,"other counties",N,157035
+"New Jersey",Mercer,"other counties",N,370212
+"New Jersey",Wilmington-NJ,"Greater Philly",Y,65120
+"New Jersey",Warren,"other counties",N,107226
+"New Mexico",Bernalillo,"other counties",N,673943
+"New Mexico",Catron,"other counties",N,3583
+"New Mexico",Chaves,"other counties",N,65811
+"New Mexico",Cibola,"other counties",N,27382
+"New Mexico",Colfax,"other counties",N,12997
+"New Mexico",Curry,"other counties",N,50497
+"New Mexico","De Baca","other counties",N,2020
+"New Mexico","DoÃ±a Ana","other counties",N,213963
+"New Mexico",Eddy,"other counties",N,55641
+"New Mexico",Grant,"other counties",N,29119
+"New Mexico",Guadalupe,"other counties",N,4526
+"New Mexico",Harding,"other counties",N,565
+"New Mexico",Hidalgo,"other counties",N,4643
+"New Mexico",Lea,"other counties",N,68149
+"New Mexico",Lincoln,"other counties",N,19931
+"New Mexico","Los Alamos","other counties",N,17939
+"New Mexico",Luna,"other counties",N,24789
+"New Mexico",McKinley,"other counties",N,73998
+"New Mexico",Mora,"other counties",N,4660
+"New Mexico",Otero,"other counties",N,65318
+"New Mexico",Quay,"other counties",N,8698
+"New Mexico","Rio Arriba","other counties",N,39949
+"New Mexico",Roosevelt,"other counties",N,19908
+"New Mexico",Sandoval,"other counties",N,136638
+"New Mexico","San Juan","other counties",N,125133
+"New Mexico","San Miguel","other counties",N,28668
+"New Mexico","Santa Fe","other counties",N,147108
+"New Mexico",Sierra,"other counties",N,11615
+"New Mexico",Socorro,"other counties",N,17494
+"New Mexico",Taos,"other counties",N,32943
+"New Mexico",Torrance,"other counties",N,15853
+"New Mexico",Union,"other counties",N,4339
+"New Mexico",Valencia,"other counties",N,76297
+"New York",Albany,"other counties",N,307463
+"New York",Allegany,"other counties",N,48070
+"New York",NYC,"Tri State",Y,8426743
+"New York",Broome,"other counties",N,198093
+"New York",Cattaraugus,"other counties",N,78962
+"New York",Cayuga,"other counties",N,79173
+"New York",Chautauqua,"other counties",N,132646
+"New York",Chemung,"other counties",N,88267
+"New York",Chenango,"other counties",N,49549
+"New York",Clinton,"other counties",N,81685
+"New York",Columbia,"other counties",N,62195
+"New York",Cortland,"other counties",N,49043
+"New York",Delaware,"other counties",N,46901
+"New York",Dutchess,"other counties",N,296928
+"New York",Erie,"other counties",N,921584
+"New York",Essex,"other counties",N,38912
+"New York",Franklin,"other counties",N,51280
+"New York",Fulton,"other counties",N,54606
+"New York",Genesee,"other counties",N,59458
+"New York",Greene,"other counties",N,48312
+"New York",Hamilton,"other counties",N,4760
+"New York",Herkimer,"other counties",N,64034
+"New York",Jefferson,"other counties",N,118947
+"New York",Lewis,"other counties",N,27124
+"New York",Livingston,"other counties",N,64801
+"New York",Madison,"other counties",N,72427
+"New York",Monroe,"other counties",N,749356
+"New York",Montgomery,"other counties",N,49779
+"New York","Tri State Ex NYC-NY","Tri State",Y,4618860
+"New York",Niagara,"other counties",N,214150
+"New York",Oneida,"other counties",N,233558
+"New York",Onondaga,"other counties",N,468304
+"New York",Ontario,"other counties",N,109192
+"New York",Orleans,"other counties",N,42204
+"New York",Oswego,"other counties",N,121183
+"New York",Otsego,"other counties",N,61399
+"New York",Rensselaer,"other counties",N,159900
+"New York","St. Lawrence","other counties",N,112011
+"New York",Saratoga,"other counties",N,223774
+"New York",Schenectady,"other counties",N,154796
+"New York",Schoharie,"other counties",N,31913
+"New York",Schuyler,"other counties",N,18410
+"New York",Seneca,"other counties",N,35144
+"New York",Steuben,"other counties",N,98665
+"New York",Sullivan,"other counties",N,76330
+"New York",Tioga,"other counties",N,50199
+"New York",Tompkins,"other counties",N,103855
+"New York",Ulster,"other counties",N,181300
+"New York",Warren,"other counties",N,65180
+"New York",Washington,"other counties",N,62700
+"New York",Wayne,"other counties",N,92416
+"New York",Wyoming,"other counties",N,41446
+"New York",Yates,"other counties",N,25187
+"North Carolina",Alamance,"other counties",N,155258
+"North Carolina",Alexander,"other counties",N,37158
+"North Carolina",Alleghany,"other counties",N,10911
+"North Carolina",Anson,"other counties",N,26135
+"North Carolina",Ashe,"other counties",N,27114
+"North Carolina",Avery,"other counties",N,17695
+"North Carolina",Beaufort,"other counties",N,47561
+"North Carolina",Bertie,"other counties",N,20518
+"North Carolina",Bladen,"other counties",N,34720
+"North Carolina",Brunswick,"other counties",N,115926
+"North Carolina",Buncombe,"other counties",N,247336
+"North Carolina",Burke,"other counties",N,89548
+"North Carolina",Cabarrus,"other counties",N,188375
+"North Carolina",Caldwell,"other counties",N,81758
+"North Carolina",Camden,"other counties",N,10161
+"North Carolina",Carteret,"other counties",N,68228
+"North Carolina",Caswell,"other counties",N,23174
+"North Carolina",Catawba,"other counties",N,154610
+"North Carolina",Chatham,"other counties",N,67431
+"North Carolina",Cherokee,"other counties",N,27092
+"North Carolina",Chowan,"other counties",N,14656
+"North Carolina",Clay,"other counties",N,10656
+"North Carolina",Cleveland,"other counties",N,97178
+"North Carolina",Columbus,"other counties",N,57230
+"North Carolina",Craven,"other counties",N,104450
+"North Carolina",Cumberland,"other counties",N,324603
+"North Carolina",Currituck,"other counties",N,24492
+"North Carolina",Dare,"other counties",N,34863
+"North Carolina",Davidson,"other counties",N,163867
+"North Carolina",Davie,"other counties",N,41447
+"North Carolina",Duplin,"other counties",N,59453
+"North Carolina",Durham,"other counties",N,288817
+"North Carolina",Edgecombe,"other counties",N,55280
+"North Carolina",Forsyth,"other counties",N,361684
+"North Carolina",Franklin,"other counties",N,62296
+"North Carolina",Gaston,"other counties",N,209807
+"North Carolina",Gates,"other counties",N,11724
+"North Carolina",Graham,"other counties",N,8700
+"North Carolina",Granville,"other counties",N,58109
+"North Carolina",Greene,"other counties",N,21328
+"North Carolina",Guilford,"other counties",N,506763
+"North Carolina",Halifax,"other counties",N,53407
+"North Carolina",Harnett,"other counties",N,124320
+"North Carolina",Haywood,"other counties",N,59170
+"North Carolina",Henderson,"other counties",N,109719
+"North Carolina",Hertford,"other counties",N,24368
+"North Carolina",Hoke,"other counties",N,51075
+"North Carolina",Hyde,"other counties",N,5693
+"North Carolina",Iredell,"other counties",N,165066
+"North Carolina",Jackson,"other counties",N,40812
+"North Carolina",Johnston,"other counties",N,178396
+"North Carolina",Jones,"other counties",N,10166
+"North Carolina",Lee,"other counties",N,59418
+"North Carolina",Lenoir,"other counties",N,58782
+"North Carolina",Lincoln,"other counties",N,79578
+"North Carolina",McDowell,"other counties",N,44961
+"North Carolina",Macon,"other counties",N,33919
+"North Carolina",Madison,"other counties",N,21027
+"North Carolina",Martin,"other counties",N,23729
+"North Carolina",Mecklenburg,"other counties",N,990288
+"North Carolina",Mitchell,"other counties",N,15330
+"North Carolina",Montgomery,"other counties",N,27601
+"North Carolina",Moore,"other counties",N,91743
+"North Carolina",Nash,"other counties",N,94722
+"North Carolina","New Hanover","other counties",N,213091
+"North Carolina",Northampton,"other counties",N,21011
+"North Carolina",Onslow,"other counties",N,183753
+"North Carolina",Orange,"other counties",N,138644
+"North Carolina",Pamlico,"other counties",N,12982
+"North Carolina",Pasquotank,"other counties",N,40018
+"North Carolina",Pender,"other counties",N,55166
+"North Carolina",Perquimans,"other counties",N,13498
+"North Carolina",Person,"other counties",N,39262
+"North Carolina",Pitt,"other counties",N,173798
+"North Carolina",Polk,"other counties",N,20327
+"North Carolina",Randolph,"other counties",N,142370
+"North Carolina",Richmond,"other counties",N,46046
+"North Carolina",Robeson,"other counties",N,134871
+"North Carolina",Rockingham,"other counties",N,92300
+"North Carolina",Rowan,"other counties",N,138361
+"North Carolina",Rutherford,"other counties",N,66865
+"North Carolina",Sampson,"other counties",N,63873
+"North Carolina",Scotland,"other counties",N,35932
+"North Carolina",Stanly,"other counties",N,60586
+"North Carolina",Stokes,"other counties",N,46661
+"North Carolina",Surry,"other counties",N,73170
+"North Carolina",Swain,"other counties",N,14163
+"North Carolina",Transylvania,"other counties",N,32928
+"North Carolina",Tyrrell,"other counties",N,4152
+"North Carolina",Union,"other counties",N,213422
+"North Carolina",Vance,"other counties",N,44829
+"North Carolina",Wake,"other counties",N,976019
+"North Carolina",Warren,"other counties",N,20468
+"North Carolina",Washington,"other counties",N,12668
+"North Carolina",Watauga,"other counties",N,52240
+"North Carolina",Wayne,"other counties",N,124355
+"North Carolina",Wilkes,"other counties",N,68946
+"North Carolina",Wilson,"other counties",N,81581
+"North Carolina",Yadkin,"other counties",N,37971
+"North Carolina",Yancey,"other counties",N,17604
+"North Dakota",Adams,"other counties",N,2341
+"North Dakota",Barnes,"other counties",N,11097
+"North Dakota",Benson,"other counties",N,6794
+"North Dakota",Billings,"other counties",N,969
+"North Dakota",Bottineau,"other counties",N,6634
+"North Dakota",Bowman,"other counties",N,3221
+"North Dakota",Burke,"other counties",N,2208
+"North Dakota",Burleigh,"other counties",N,88223
+"North Dakota",Cass,"other counties",N,162500
+"North Dakota",Cavalier,"other counties",N,3890
+"North Dakota",Dickey,"other counties",N,5195
+"North Dakota",Divide,"other counties",N,2314
+"North Dakota",Dunn,"other counties",N,4195
+"North Dakota",Eddy,"other counties",N,2370
+"North Dakota",Emmons,"other counties",N,3463
+"North Dakota",Foster,"other counties",N,3366
+"North Dakota","Golden Valley","other counties",N,1822
+"North Dakota","Grand Forks","other counties",N,68979
+"North Dakota",Grant,"other counties",N,2362
+"North Dakota",Griggs,"other counties",N,2329
+"North Dakota",Hettinger,"other counties",N,2621
+"North Dakota",Kidder,"other counties",N,2430
+"North Dakota",LaMoure,"other counties",N,4113
+"North Dakota",Logan,"other counties",N,1945
+"North Dakota",McHenry,"other counties",N,5817
+"North Dakota",McIntosh,"other counties",N,2759
+"North Dakota",McKenzie,"other counties",N,9615
+"North Dakota",McLean,"other counties",N,9451
+"North Dakota",Mercer,"other counties",N,8633
+"North Dakota",Morton,"other counties",N,28985
+"North Dakota",Mountrail,"other counties",N,9253
+"North Dakota",Nelson,"other counties",N,3048
+"North Dakota",Oliver,"other counties",N,1819
+"North Dakota",Pembina,"other counties",N,7206
+"North Dakota",Pierce,"other counties",N,4395
+"North Dakota",Ramsey,"other counties",N,11566
+"North Dakota",Ransom,"other counties",N,5453
+"North Dakota",Renville,"other counties",N,2562
+"North Dakota",Richland,"other counties",N,16317
+"North Dakota",Rolette,"other counties",N,14498
+"North Dakota",Sargent,"other counties",N,3874
+"North Dakota",Sheridan,"other counties",N,1337
+"North Dakota",Sioux,"other counties",N,4380
+"North Dakota",Slope,"other counties",N,673
+"North Dakota",Stark,"other counties",N,28628
+"North Dakota",Steele,"other counties",N,1979
+"North Dakota",Stutsman,"other counties",N,21076
+"North Dakota",Towner,"other counties",N,2294
+"North Dakota",Traill,"other counties",N,8077
+"North Dakota",Walsh,"other counties",N,11005
+"North Dakota",Ward,"other counties",N,67736
+"North Dakota",Wells,"other counties",N,4204
+"North Dakota",Williams,"other counties",N,29619
+Ohio,Adams,"other counties",N,28229
+Ohio,Allen,"other counties",N,105196
+Ohio,Ashland,"other counties",N,53189
+Ohio,Ashtabula,"other counties",N,99777
+Ohio,Athens,"other counties",N,64974
+Ohio,Auglaize,"other counties",N,45873
+Ohio,Belmont,"other counties",N,69560
+Ohio,Brown,"other counties",N,44247
+Ohio,Butler,"other counties",N,372538
+Ohio,Carroll,"other counties",N,28361
+Ohio,Champaign,"other counties",N,39393
+Ohio,Clark,"other counties",N,136827
+Ohio,Clermont,"other counties",N,200285
+Ohio,Clinton,"other counties",N,41892
+Ohio,Columbiana,"other counties",N,105987
+Ohio,Coshocton,"other counties",N,36724
+Ohio,Crawford,"other counties",N,42725
+Ohio,Cuyahoga,"other counties",N,1263189
+Ohio,Darke,"other counties",N,52356
+Ohio,Defiance,"other counties",N,38669
+Ohio,Delaware,"other counties",N,185433
+Ohio,Erie,"other counties",N,76141
+Ohio,Fairfield,"other counties",N,149112
+Ohio,Fayette,"other counties",N,28769
+Ohio,Franklin,"other counties",N,1215761
+Ohio,Fulton,"other counties",N,42485
+Ohio,Gallia,"other counties",N,30565
+Ohio,Geauga,"other counties",N,93874
+Ohio,Greene,"other counties",N,164192
+Ohio,Guernsey,"other counties",N,39626
+Ohio,Hamilton,"other counties",N,804194
+Ohio,Hancock,"other counties",N,75428
+Ohio,Hardin,"other counties",N,31736
+Ohio,Harrison,"other counties",N,15633
+Ohio,Henry,"other counties",N,28015
+Ohio,Highland,"other counties",N,43170
+Ohio,Hocking,"other counties",N,28914
+Ohio,Holmes,"other counties",N,43436
+Ohio,Huron,"other counties",N,58937
+Ohio,Jackson,"other counties",N,32854
+Ohio,Jefferson,"other counties",N,68053
+Ohio,Knox,"other counties",N,61004
+Ohio,Lake,"other counties",N,229437
+Ohio,Lawrence,"other counties",N,61827
+Ohio,Licking,"other counties",N,168693
+Ohio,Logan,"other counties",N,45484
+Ohio,Lorain,"other counties",N,303152
+Ohio,Lucas,"other counties",N,436261
+Ohio,Madison,"other counties",N,43456
+Ohio,Mahoning,"other counties",N,234550
+Ohio,Marion,"other counties",N,65943
+Ohio,Medina,"other counties",N,174831
+Ohio,Meigs,"other counties",N,23473
+Ohio,Mercer,"other counties",N,40863
+Ohio,Miami,"other counties",N,103517
+Ohio,Monroe,"other counties",N,14547
+Ohio,Montgomery,"other counties",N,533763
+Ohio,Morgan,"other counties",N,14913
+Ohio,Morrow,"other counties",N,34996
+Ohio,Muskingum,"other counties",N,86016
+Ohio,Noble,"other counties",N,14508
+Ohio,Ottawa,"other counties",N,41162
+Ohio,Paulding,"other counties",N,19165
+Ohio,Perry,"other counties",N,36025
+Ohio,Pickaway,"other counties",N,56515
+Ohio,Pike,"other counties",N,28396
+Ohio,Portage,"other counties",N,161897
+Ohio,Preble,"other counties",N,41682
+Ohio,Putnam,"other counties",N,34184
+Ohio,Richland,"other counties",N,122312
+Ohio,Ross,"other counties",N,77334
+Ohio,Sandusky,"other counties",N,60187
+Ohio,Scioto,"other counties",N,78017
+Ohio,Seneca,"other counties",N,55929
+Ohio,Shelby,"other counties",N,49067
+Ohio,Stark,"other counties",N,374979
+Ohio,Summit,"other counties",N,541847
+Ohio,Trumbull,"other counties",N,206373
+Ohio,Tuscarawas,"other counties",N,92697
+Ohio,Union,"other counties",N,53470
+Ohio,"Van Wert","other counties",N,28576
+Ohio,Vinton,"other counties",N,13234
+Ohio,Warren,"other counties",N,219916
+Ohio,Washington,"other counties",N,61351
+Ohio,Wayne,"other counties",N,115371
+Ohio,Williams,"other counties",N,37386
+Ohio,Wood,"other counties",N,128885
+Ohio,Wyandot,"other counties",N,22467
+Oklahoma,Adair,"other counties",N,22236
+Oklahoma,Alfalfa,"other counties",N,5755
+Oklahoma,Atoka,"other counties",N,13906
+Oklahoma,Beaver,"other counties",N,5530
+Oklahoma,Beckham,"other counties",N,23300
+Oklahoma,Blaine,"other counties",N,9810
+Oklahoma,Bryan,"other counties",N,44003
+Oklahoma,Caddo,"other counties",N,29495
+Oklahoma,Canadian,"other counties",N,126193
+Oklahoma,Carter,"other counties",N,48442
+Oklahoma,Cherokee,"other counties",N,48097
+Oklahoma,Choctaw,"other counties",N,15120
+Oklahoma,Cimarron,"other counties",N,2341
+Oklahoma,Cleveland,"other counties",N,268614
+Oklahoma,Coal,"other counties",N,5812
+Oklahoma,Comanche,"other counties",N,125531
+Oklahoma,Cotton,"other counties",N,6112
+Oklahoma,Craig,"other counties",N,14744
+Oklahoma,Creek,"other counties",N,70761
+Oklahoma,Custer,"other counties",N,28978
+Oklahoma,Delaware,"other counties",N,41409
+Oklahoma,Dewey,"other counties",N,4863
+Oklahoma,Ellis,"other counties",N,4121
+Oklahoma,Garfield,"other counties",N,62192
+Oklahoma,Garvin,"other counties",N,27455
+Oklahoma,Grady,"other counties",N,53612
+Oklahoma,Grant,"other counties",N,4517
+Oklahoma,Greer,"other counties",N,6117
+Oklahoma,Harmon,"other counties",N,2866
+Oklahoma,Harper,"other counties",N,3766
+Oklahoma,Haskell,"other counties",N,12850
+Oklahoma,Hughes,"other counties",N,13785
+Oklahoma,Jackson,"other counties",N,26056
+Oklahoma,Jefferson,"other counties",N,6333
+Oklahoma,Johnston,"other counties",N,11022
+Oklahoma,Kay,"other counties",N,45587
+Oklahoma,Kingfisher,"other counties",N,15302
+Oklahoma,Kiowa,"other counties",N,9302
+Oklahoma,Latimer,"other counties",N,10774
+Oklahoma,"Le Flore","other counties",N,49899
+Oklahoma,Lincoln,"other counties",N,34504
+Oklahoma,Logan,"other counties",N,44493
+Oklahoma,Love,"other counties",N,9663
+Oklahoma,McClain,"other counties",N,36512
+Oklahoma,McCurtain,"other counties",N,33143
+Oklahoma,McIntosh,"other counties",N,20280
+Oklahoma,Major,"other counties",N,7700
+Oklahoma,Marshall,"other counties",N,16014
+Oklahoma,Mayes,"other counties",N,41007
+Oklahoma,Murray,"other counties",N,13733
+Oklahoma,Muskogee,"other counties",N,70224
+Oklahoma,Noble,"other counties",N,11506
+Oklahoma,Nowata,"other counties",N,10555
+Oklahoma,Okfuskee,"other counties",N,12248
+Oklahoma,Oklahoma,"other counties",N,754480
+Oklahoma,Okmulgee,"other counties",N,39446
+Oklahoma,Osage,"other counties",N,48054
+Oklahoma,Ottawa,"other counties",N,32085
+Oklahoma,Pawnee,"other counties",N,16499
+Oklahoma,Payne,"other counties",N,79423
+Oklahoma,Pittsburg,"other counties",N,44961
+Oklahoma,Pontotoc,"other counties",N,38055
+Oklahoma,Pottawatomie,"other counties",N,71136
+Oklahoma,Pushmataha,"other counties",N,11226
+Oklahoma,"Roger Mills","other counties",N,3780
+Oklahoma,Rogers,"other counties",N,89190
+Oklahoma,Seminole,"other counties",N,25481
+Oklahoma,Sequoyah,"other counties",N,41464
+Oklahoma,Stephens,"other counties",N,44806
+Oklahoma,Texas,"other counties",N,21588
+Oklahoma,Tillman,"other counties",N,7715
+Oklahoma,Tulsa,"other counties",N,623335
+Oklahoma,Wagoner,"other counties",N,75391
+Oklahoma,Washington,"other counties",N,51760
+Oklahoma,Washita,"other counties",N,11649
+Oklahoma,Woods,"other counties",N,9033
+Oklahoma,Woodward,"other counties",N,20986
+Oregon,Baker,"other counties",N,16052
+Oregon,Benton,"other counties",N,86495
+Oregon,Clackamas,"other counties",N,389438
+Oregon,Clatsop,"other counties",N,37382
+Oregon,Columbia,"other counties",N,49389
+Oregon,Coos,"other counties",N,62775
+Oregon,Crook,"other counties",N,20956
+Oregon,Curry,"other counties",N,22338
+Oregon,Deschutes,"other counties",N,166622
+Oregon,Douglas,"other counties",N,107194
+Oregon,Gilliam,"other counties",N,1883
+Oregon,Grant,"other counties",N,7276
+Oregon,Harney,"other counties",N,7229
+Oregon,"Hood River","other counties",N,22749
+Oregon,Jackson,"other counties",N,208363
+Oregon,Jefferson,"other counties",N,22061
+Oregon,Josephine,"other counties",N,83409
+Oregon,Klamath,"other counties",N,65972
+Oregon,Lake,"other counties",N,7842
+Oregon,Lane,"other counties",N,357060
+Oregon,Lincoln,"other counties",N,46347
+Oregon,Linn,"other counties",N,118971
+Oregon,Malheur,"other counties",N,30551
+Oregon,Marion,"other counties",N,323259
+Oregon,Morrow,"other counties",N,11204
+Oregon,Multnomah,"other counties",N,768418
+Oregon,Polk,"other counties",N,77264
+Oregon,Sherman,"other counties",N,1795
+Oregon,Tillamook,"other counties",N,25430
+Oregon,Umatilla,"other counties",N,76738
+Oregon,Union,"other counties",N,25745
+Oregon,Wallowa,"other counties",N,6857
+Oregon,Wasco,"other counties",N,25492
+Oregon,Washington,"other counties",N,556210
+Oregon,Wheeler,"other counties",N,1348
+Oregon,Yamhill,"other counties",N,101119
+Pennsylvania,Adams,"other counties",N,101767
+Pennsylvania,Allegheny,"other counties",N,1231145
+Pennsylvania,Armstrong,"other counties",N,67979
+Pennsylvania,Beaver,"other counties",N,169785
+Pennsylvania,Bedford,"other counties",N,49086
+Pennsylvania,Berks,"other counties",N,413965
+Pennsylvania,Blair,"other counties",N,126448
+Pennsylvania,Bradford,"other counties",N,62228
+Pennsylvania,"Philadelphia & East. PA","Greater Philly",Y,4066105
+Pennsylvania,Butler,"other counties",N,185689
+Pennsylvania,Cambria,"other counties",N,139381
+Pennsylvania,Cameron,"other counties",N,4869
+Pennsylvania,Carbon,"other counties",N,64634
+Pennsylvania,Centre,"other counties",N,157823
+Pennsylvania,Clarion,"other counties",N,39454
+Pennsylvania,Clearfield,"other counties",N,81343
+Pennsylvania,Clinton,"other counties",N,39614
+Pennsylvania,Columbia,"other counties",N,66912
+Pennsylvania,Crawford,"other counties",N,87343
+Pennsylvania,Cumberland,"other counties",N,241427
+Pennsylvania,Dauphin,"other counties",N,271094
+Pennsylvania,Elk,"other counties",N,31370
+Pennsylvania,Erie,"other counties",N,279858
+Pennsylvania,Fayette,"other counties",N,134851
+Pennsylvania,Forest,"other counties",N,7581
+Pennsylvania,Franklin,"other counties",N,152285
+Pennsylvania,Fulton,"other counties",N,14694
+Pennsylvania,Greene,"other counties",N,37938
+Pennsylvania,Huntingdon,"other counties",N,45906
+Pennsylvania,Indiana,"other counties",N,87895
+Pennsylvania,Jefferson,"other counties",N,44756
+Pennsylvania,Juniata,"other counties",N,24829
+Pennsylvania,Lackawanna,"other counties",N,213459
+Pennsylvania,Lancaster,"other counties",N,530216
+Pennsylvania,Lawrence,"other counties",N,89162
+Pennsylvania,Lebanon,"other counties",N,135776
+Pennsylvania,Lehigh,"other counties",N,356756
+Pennsylvania,Luzerne,"other counties",N,320095
+Pennsylvania,Lycoming,"other counties",N,116656
+Pennsylvania,McKean,"other counties",N,42884
+Pennsylvania,Mercer,"other counties",N,115320
+Pennsylvania,Mifflin,"other counties",N,46675
+Pennsylvania,Monroe,"other counties",N,167881
+Pennsylvania,Montour,"other counties",N,18508
+Pennsylvania,Northampton,"other counties",N,299616
+Pennsylvania,Northumberland,"other counties",N,94006
+Pennsylvania,Perry,"other counties",N,45677
+Pennsylvania,"Tri State Ex NYC-PA","Tri State",Y,56632
+Pennsylvania,Potter,"other counties",N,17377
+Pennsylvania,Schuylkill,"other counties",N,146360
+Pennsylvania,Snyder,"other counties",N,40046
+Pennsylvania,Somerset,"other counties",N,76617
+Pennsylvania,Sullivan,"other counties",N,6381
+Pennsylvania,Susquehanna,"other counties",N,42369
+Pennsylvania,Tioga,"other counties",N,42284
+Pennsylvania,Union,"other counties",N,44958
+Pennsylvania,Venango,"other counties",N,53906
+Pennsylvania,Warren,"other counties",N,40962
+Pennsylvania,Washington,"other counties",N,208226
+Pennsylvania,Wayne,"other counties",N,51642
+Pennsylvania,Westmoreland,"other counties",N,361251
+Pennsylvania,Wyoming,"other counties",N,28147
+Pennsylvania,York,"other counties",N,439660
+"Rhode Island",Bristol,"other counties",N,49176
+"Rhode Island",Kent,"other counties",N,164958
+"Rhode Island",Newport,"other counties",N,82663
+"Rhode Island",Providence,"other counties",N,630459
+"Rhode Island",Washington,"other counties",N,126405
+"South Carolina",Abbeville,"other counties",N,24997
+"South Carolina",Aiken,"other counties",N,163908
+"South Carolina",Allendale,"other counties",N,9838
+"South Carolina",Anderson,"other counties",N,191215
+"South Carolina",Bamberg,"other counties",N,15432
+"South Carolina",Barnwell,"other counties",N,22098
+"South Carolina",Beaufort,"other counties",N,171420
+"South Carolina",Berkeley,"other counties",N,193613
+"South Carolina",Calhoun,"other counties",N,14958
+"South Carolina",Charleston,"other counties",N,372904
+"South Carolina",Cherokee,"other counties",N,55863
+"South Carolina",Chester,"other counties",N,32556
+"South Carolina",Chesterfield,"other counties",N,46192
+"South Carolina",Clarendon,"other counties",N,34178
+"South Carolina",Colleton,"other counties",N,38004
+"South Carolina",Darlington,"other counties",N,67922
+"South Carolina",Dillon,"other counties",N,31435
+"South Carolina",Dorchester,"other counties",N,145715
+"South Carolina",Edgefield,"other counties",N,26466
+"South Carolina",Fairfield,"other counties",N,23108
+"South Carolina",Florence,"other counties",N,138330
+"South Carolina",Georgetown,"other counties",N,60572
+"South Carolina",Greenville,"other counties",N,474903
+"South Carolina",Greenwood,"other counties",N,69771
+"South Carolina",Hampton,"other counties",N,20473
+"South Carolina",Horry,"other counties",N,290730
+"South Carolina",Jasper,"other counties",N,26549
+"South Carolina",Kershaw,"other counties",N,62722
+"South Carolina",Lancaster,"other counties",N,81263
+"South Carolina",Laurens,"other counties",N,66389
+"South Carolina",Lee,"other counties",N,18461
+"South Carolina",Lexington,"other counties",N,273843
+"South Carolina",McCormick,"other counties",N,9895
+"South Carolina",Marion,"other counties",N,32167
+"South Carolina",Marlboro,"other counties",N,27993
+"South Carolina",Newberry,"other counties",N,37690
+"South Carolina",Oconee,"other counties",N,74949
+"South Carolina",Orangeburg,"other counties",N,90575
+"South Carolina",Pickens,"other counties",N,120124
+"South Carolina",Richland,"other counties",N,397899
+"South Carolina",Saluda,"other counties",N,20000
+"South Carolina",Spartanburg,"other counties",N,291240
+"South Carolina",Sumter,"other counties",N,107777
+"South Carolina",Union,"other counties",N,28125
+"South Carolina",Williamsburg,"other counties",N,33238
+"South Carolina",York,"other counties",N,240076
+"South Dakota",Aurora,"other counties",N,2729
+"South Dakota",Beadle,"other counties",N,18168
+"South Dakota",Bennett,"other counties",N,3438
+"South Dakota","Bon Homme","other counties",N,7013
+"South Dakota",Brookings,"other counties",N,33046
+"South Dakota",Brown,"other counties",N,38060
+"South Dakota",Brule,"other counties",N,5330
+"South Dakota",Buffalo,"other counties",N,2038
+"South Dakota",Butte,"other counties",N,10292
+"South Dakota",Campbell,"other counties",N,1548
+"South Dakota","Charles Mix","other counties",N,9239
+"South Dakota",Clark,"other counties",N,3625
+"South Dakota",Clay,"other counties",N,14011
+"South Dakota",Codington,"other counties",N,27750
+"South Dakota",Corson,"other counties",N,4149
+"South Dakota",Custer,"other counties",N,8394
+"South Dakota",Davison,"other counties",N,19787
+"South Dakota",Day,"other counties",N,5618
+"South Dakota",Deuel,"other counties",N,4341
+"South Dakota",Dewey,"other counties",N,5579
+"South Dakota",Douglas,"other counties",N,2973
+"South Dakota",Edmunds,"other counties",N,4018
+"South Dakota","Fall River","other counties",N,6906
+"South Dakota",Faulk,"other counties",N,2359
+"South Dakota",Grant,"other counties",N,7227
+"South Dakota",Gregory,"other counties",N,4226
+"South Dakota",Haakon,"other counties",N,2083
+"South Dakota",Hamlin,"other counties",N,5982
+"South Dakota",Hand,"other counties",N,3375
+"South Dakota",Hanson,"other counties",N,3386
+"South Dakota",Harding,"other counties",N,1328
+"South Dakota",Hughes,"other counties",N,17466
+"South Dakota",Hutchinson,"other counties",N,7226
+"South Dakota",Hyde,"other counties",N,1413
+"South Dakota",Jackson,"other counties",N,3237
+"South Dakota",Jerauld,"other counties",N,2031
+"South Dakota",Jones,"other counties",N,781
+"South Dakota",Kingsbury,"other counties",N,5107
+"South Dakota",Lake,"other counties",N,12086
+"South Dakota",Lawrence,"other counties",N,24645
+"South Dakota",Lincoln,"other counties",N,49874
+"South Dakota",Lyman,"other counties",N,3837
+"South Dakota",McCook,"other counties",N,5613
+"South Dakota",McPherson,"other counties",N,2263
+"South Dakota",Marshall,"other counties",N,4701
+"South Dakota",Meade,"other counties",N,26381
+"South Dakota",Mellette,"other counties",N,2086
+"South Dakota",Miner,"other counties",N,2306
+"South Dakota",Minnehaha,"other counties",N,178942
+"South Dakota",Moody,"other counties",N,6439
+"South Dakota","Oglala Lakota","other counties",N,14153
+"South Dakota",Pennington,"other counties",N,106085
+"South Dakota",Perkins,"other counties",N,2981
+"South Dakota",Potter,"other counties",N,2307
+"South Dakota",Roberts,"other counties",N,10318
+"South Dakota",Sanborn,"other counties",N,2339
+"South Dakota",Spink,"other counties",N,6570
+"South Dakota",Stanley,"other counties",N,2962
+"South Dakota",Sully,"other counties",N,1469
+"South Dakota",Todd,"other counties",N,9942
+"South Dakota",Tripp,"other counties",N,5504
+"South Dakota",Turner,"other counties",N,8302
+"South Dakota",Union,"other counties",N,14842
+"South Dakota",Walworth,"other counties",N,5495
+"South Dakota",Yankton,"other counties",N,22636
+"South Dakota",Ziebach,"other counties",N,2833
+Tennessee,Anderson,"other counties",N,75430
+Tennessee,Bedford,"other counties",N,45986
+Tennessee,Benton,"other counties",N,16261
+Tennessee,Bledsoe,"other counties",N,13686
+Tennessee,Blount,"other counties",N,125188
+Tennessee,Bradley,"other counties",N,102062
+Tennessee,Campbell,"other counties",N,40176
+Tennessee,Cannon,"other counties",N,13787
+Tennessee,Carroll,"other counties",N,28353
+Tennessee,Carter,"other counties",N,56941
+Tennessee,Cheatham,"other counties",N,39422
+Tennessee,Chester,"other counties",N,17324
+Tennessee,Claiborne,"other counties",N,31748
+Tennessee,Clay,"other counties",N,7780
+Tennessee,Cocke,"other counties",N,35321
+Tennessee,Coffee,"other counties",N,53448
+Tennessee,Crockett,"other counties",N,14600
+Tennessee,Cumberland,"other counties",N,57455
+Tennessee,Davidson,"other counties",N,658506
+Tennessee,Decatur,"other counties",N,11686
+Tennessee,DeKalb,"other counties",N,19038
+Tennessee,Dickson,"other counties",N,50472
+Tennessee,Dyer,"other counties",N,38054
+Tennessee,Fayette,"other counties",N,38814
+Tennessee,Fentress,"other counties",N,17931
+Tennessee,Franklin,"other counties",N,41138
+Tennessee,Gibson,"other counties",N,49572
+Tennessee,Giles,"other counties",N,28949
+Tennessee,Grainger,"other counties",N,22736
+Tennessee,Greene,"other counties",N,68576
+Tennessee,Grundy,"other counties",N,13524
+Tennessee,Hamblen,"other counties",N,62999
+Tennessee,Hamilton,"other counties",N,348121
+Tennessee,Hancock,"other counties",N,6642
+Tennessee,Hardeman,"other counties",N,26253
+Tennessee,Hardin,"other counties",N,25900
+Tennessee,Hawkins,"other counties",N,56595
+Tennessee,Haywood,"other counties",N,18248
+Tennessee,Henderson,"other counties",N,28013
+Tennessee,Henry,"other counties",N,32269
+Tennessee,Hickman,"other counties",N,24283
+Tennessee,Houston,"other counties",N,8290
+Tennessee,Humphreys,"other counties",N,18240
+Tennessee,Jackson,"other counties",N,11496
+Tennessee,Jefferson,"other counties",N,52490
+Tennessee,Johnson,"other counties",N,18017
+Tennessee,Knox,"other counties",N,444348
+Tennessee,Lake,"other counties",N,7687
+Tennessee,Lauderdale,"other counties",N,27427
+Tennessee,Lawrence,"other counties",N,42226
+Tennessee,Lewis,"other counties",N,11944
+Tennessee,Lincoln,"other counties",N,33550
+Tennessee,Loudon,"other counties",N,50229
+Tennessee,McMinn,"other counties",N,52506
+Tennessee,McNairy,"other counties",N,26103
+Tennessee,Macon,"other counties",N,22761
+Tennessee,Madison,"other counties",N,98184
+Tennessee,Marion,"other counties",N,28306
+Tennessee,Marshall,"other counties",N,31159
+Tennessee,Maury,"other counties",N,84089
+Tennessee,Meigs,"other counties",N,11716
+Tennessee,Monroe,"other counties",N,45293
+Tennessee,Montgomery,"other counties",N,185980
+Tennessee,Moore,"other counties",N,6351
+Tennessee,Morgan,"other counties",N,21794
+Tennessee,Obion,"other counties",N,31129
+Tennessee,Overton,"other counties",N,22100
+Tennessee,Perry,"other counties",N,7864
+Tennessee,Pickett,"other counties",N,5097
+Tennessee,Polk,"other counties",N,16687
+Tennessee,Putnam,"other counties",N,73810
+Tennessee,Rhea,"other counties",N,32394
+Tennessee,Roane,"other counties",N,53162
+Tennessee,Robertson,"other counties",N,67426
+Tennessee,Rutherford,"other counties",N,282558
+Tennessee,Scott,"other counties",N,22043
+Tennessee,Sequatchie,"other counties",N,14592
+Tennessee,Sevier,"other counties",N,93617
+Tennessee,Shelby,"other counties",N,937750
+Tennessee,Smith,"other counties",N,19136
+Tennessee,Stewart,"other counties",N,13286
+Tennessee,Sullivan,"other counties",N,156752
+Tennessee,Sumner,"other counties",N,169623
+Tennessee,Tipton,"other counties",N,61674
+Tennessee,Trousdale,"other counties",N,7884
+Tennessee,Unicoi,"other counties",N,18069
+Tennessee,Union,"other counties",N,19096
+Tennessee,"Van Buren","other counties",N,5596
+Tennessee,Warren,"other counties",N,40015
+Tennessee,Washington,"other counties",N,125317
+Tennessee,Wayne,"other counties",N,16897
+Tennessee,Weakley,"other counties",N,34415
+Tennessee,White,"other counties",N,26252
+Tennessee,Williamson,"other counties",N,199456
+Tennessee,Wilson,"other counties",N,122445
+Texas,Anderson,"other counties",N,57915
+Texas,Andrews,"other counties",N,16775
+Texas,Angelina,"other counties",N,87748
+Texas,Aransas,"other counties",N,24292
+Texas,Archer,"other counties",N,8779
+Texas,Armstrong,"other counties",N,1943
+Texas,Atascosa,"other counties",N,47050
+Texas,"Greater Houston","Greater Houston",Y,6346653
+Texas,Bailey,"other counties",N,7126
+Texas,Bandera,"other counties",N,20796
+Texas,Bastrop,"other counties",N,76948
+Texas,Baylor,"other counties",N,3628
+Texas,Bee,"other counties",N,32659
+Texas,Bell,"other counties",N,326041
+Texas,Bexar,"other counties",N,1825502
+Texas,Blanco,"other counties",N,10723
+Texas,Borden,"other counties",N,705
+Texas,Bosque,"other counties",N,17971
+Texas,Bowie,"other counties",N,93155
+Texas,Brazos,"other counties",N,205271
+Texas,Brewster,"other counties",N,9235
+Texas,Briscoe,"other counties",N,1670
+Texas,Brooks,"other counties",N,7221
+Texas,Brown,"other counties",N,37833
+Texas,Burleson,"other counties",N,17293
+Texas,Burnet,"other counties",N,44144
+Texas,Caldwell,"other counties",N,39347
+Texas,Calhoun,"other counties",N,21666
+Texas,Callahan,"other counties",N,13532
+Texas,Cameron,"other counties",N,417947
+Texas,Camp,"other counties",N,12516
+Texas,Carson,"other counties",N,6068
+Texas,Cass,"other counties",N,30328
+Texas,Castro,"other counties",N,7948
+Texas,Cherokee,"other counties",N,51167
+Texas,Childress,"other counties",N,7059
+Texas,Clay,"other counties",N,10479
+Texas,Cochran,"other counties",N,2993
+Texas,Coke,"other counties",N,3238
+Texas,Coleman,"other counties",N,8536
+Texas,Dallas-FW,"Dallas MSA",Y,6771641
+Texas,Collingsworth,"other counties",N,3058
+Texas,Colorado,"other counties",N,20757
+Texas,Comal,"other counties",N,119632
+Texas,Comanche,"other counties",N,13623
+Texas,Concho,"other counties",N,4086
+Texas,Cooke,"other counties",N,38761
+Texas,Coryell,"other counties",N,76128
+Texas,Cottle,"other counties",N,1510
+Texas,Crane,"other counties",N,4730
+Texas,Crockett,"other counties",N,3699
+Texas,Crosby,"other counties",N,6007
+Texas,Culberson,"other counties",N,2296
+Texas,Dallam,"other counties",N,7014
+Texas,Dawson,"other counties",N,13542
+Texas,"Deaf Smith","other counties",N,19245
+Texas,Delta,"other counties",N,5223
+Texas,DeWitt,"other counties",N,20540
+Texas,Dickens,"other counties",N,2281
+Texas,Dimmit,"other counties",N,10682
+Texas,Donley,"other counties",N,3588
+Texas,Duval,"other counties",N,11577
+Texas,Eastland,"other counties",N,18328
+Texas,Ector,"other counties",N,149557
+Texas,Edwards,"other counties",N,1906
+Texas,"El Paso","other counties",N,831095
+Texas,Erath,"other counties",N,40039
+Texas,Falls,"other counties",N,17410
+Texas,Fannin,"other counties",N,33748
+Texas,Fayette,"other counties",N,24849
+Texas,Fisher,"other counties",N,3858
+Texas,Floyd,"other counties",N,6178
+Texas,Foard,"other counties",N,1197
+Texas,Franklin,"other counties",N,10599
+Texas,Freestone,"other counties",N,19586
+Texas,Frio,"other counties",N,18168
+Texas,Gaines,"other counties",N,18916
+Texas,Garza,"other counties",N,6410
+Texas,Gillespie,"other counties",N,25398
+Texas,Glasscock,"other counties",N,1180
+Texas,Goliad,"other counties",N,7410
+Texas,Gonzales,"other counties",N,20172
+Texas,Gray,"other counties",N,22983
+Texas,Grayson,"other counties",N,122780
+Texas,Gregg,"other counties",N,123178
+Texas,Grimes,"other counties",N,26961
+Texas,Guadalupe,"other counties",N,143460
+Texas,Hale,"other counties",N,35504
+Texas,Hall,"other counties",N,3203
+Texas,Hamilton,"other counties",N,8266
+Texas,Hansford,"other counties",N,5559
+Texas,Hardeman,"other counties",N,3992
+Texas,Hardin,"other counties",N,55375
+Texas,Harrison,"other counties",N,66417
+Texas,Hartley,"other counties",N,6121
+Texas,Haskell,"other counties",N,5853
+Texas,Hays,"other counties",N,177562
+Texas,Hemphill,"other counties",N,4115
+Texas,Henderson,"other counties",N,79016
+Texas,Hidalgo,"other counties",N,819217
+Texas,Hill,"other counties",N,34923
+Texas,Hockley,"other counties",N,23322
+Texas,Hood,"other counties",N,53171
+Texas,Hopkins,"other counties",N,35645
+Texas,Houston,"other counties",N,22949
+Texas,Howard,"other counties",N,36105
+Texas,Hudspeth,"other counties",N,3330
+Texas,Hutchinson,"other counties",N,21858
+Texas,Irion,"other counties",N,1644
+Texas,Jack,"other counties",N,8946
+Texas,Jackson,"other counties",N,14486
+Texas,Jasper,"other counties",N,35768
+Texas,"Jeff Davis","other counties",N,2232
+Texas,Jefferson,"other counties",N,252872
+Texas,"Jim Hogg","other counties",N,5239
+Texas,"Jim Wells","other counties",N,41461
+Texas,Jones,"other counties",N,19978
+Texas,Karnes,"other counties",N,14879
+Texas,Kendall,"other counties",N,37361
+Texas,Kenedy,"other counties",N,565
+Texas,Kent,"other counties",N,821
+Texas,Kerr,"other counties",N,50149
+Texas,Kimble,"other counties",N,4486
+Texas,King,"other counties",N,267
+Texas,Kinney,"other counties",N,3577
+Texas,Kleberg,"other counties",N,32029
+Texas,Knox,"other counties",N,3796
+Texas,Lamar,"other counties",N,49566
+Texas,Lamb,"other counties",N,13742
+Texas,Lampasas,"other counties",N,20219
+Texas,"La Salle","other counties",N,7191
+Texas,Lavaca,"other counties",N,19549
+Texas,Lee,"other counties",N,16664
+Texas,Leon,"other counties",N,16819
+Texas,Limestone,"other counties",N,23454
+Texas,Lipscomb,"other counties",N,3483
+Texas,"Live Oak","other counties",N,11873
+Texas,Llano,"other counties",N,19323
+Texas,Lubbock,"other counties",N,290782
+Texas,Lynn,"other counties",N,5764
+Texas,McCulloch,"other counties",N,8273
+Texas,McLennan,"other counties",N,241505
+Texas,McMullen,"other counties",N,778
+Texas,Madison,"other counties",N,13838
+Texas,Marion,"other counties",N,10248
+Texas,Martin,"other counties",N,5252
+Texas,Mason,"other counties",N,4066
+Texas,Matagorda,"other counties",N,36598
+Texas,Maverick,"other counties",N,56548
+Texas,Medina,"other counties",N,47392
+Texas,Menard,"other counties",N,2182
+Texas,Midland,"other counties",N,151290
+Texas,Milam,"other counties",N,24344
+Texas,Mills,"other counties",N,4875
+Texas,Mitchell,"other counties",N,9169
+Texas,Montague,"other counties",N,19478
+Texas,Moore,"other counties",N,22281
+Texas,Morris,"other counties",N,12700
+Texas,Motley,"other counties",N,1071
+Texas,Nacogdoches,"other counties",N,65531
+Texas,Navarro,"other counties",N,48118
+Texas,Newton,"other counties",N,14231
+Texas,Nolan,"other counties",N,15061
+Texas,Nueces,"other counties",N,352060
+Texas,Ochiltree,"other counties",N,10642
+Texas,Oldham,"other counties",N,2071
+Texas,Orange,"other counties",N,83217
+Texas,"Palo Pinto","other counties",N,27921
+Texas,Panola,"other counties",N,23900
+Texas,Parmer,"other counties",N,10004
+Texas,Pecos,"other counties",N,15807
+Texas,Polk,"other counties",N,46113
+Texas,Potter,"other counties",N,122352
+Texas,Presidio,"other counties",N,7304
+Texas,Rains,"other counties",N,11037
+Texas,Randall,"other counties",N,126782
+Texas,Reagan,"other counties",N,3598
+Texas,Real,"other counties",N,3356
+Texas,"Red River","other counties",N,12567
+Texas,Reeves,"other counties",N,14179
+Texas,Refugio,"other counties",N,7277
+Texas,Roberts,"other counties",N,931
+Texas,Robertson,"other counties",N,16532
+Texas,Runnels,"other counties",N,10445
+Texas,Rusk,"other counties",N,53457
+Texas,Sabine,"other counties",N,10440
+Texas,"San Augustine","other counties",N,8695
+Texas,"San Jacinto","other counties",N,27023
+Texas,"San Patricio","other counties",N,66070
+Texas,"San Saba","other counties",N,5893
+Texas,Schleicher,"other counties",N,3224
+Texas,Scurry,"other counties",N,17238
+Texas,Shackelford,"other counties",N,3352
+Texas,Shelby,"other counties",N,25725
+Texas,Sherman,"other counties",N,3066
+Texas,Smith,"other counties",N,217552
+Texas,Somervell,"other counties",N,8608
+Texas,Starr,"other counties",N,62648
+Texas,Stephens,"other counties",N,9452
+Texas,Sterling,"other counties",N,1346
+Texas,Stonewall,"other counties",N,1414
+Texas,Sutton,"other counties",N,3966
+Texas,Swisher,"other counties",N,7713
+Texas,Taylor,"other counties",N,134435
+Texas,Terrell,"other counties",N,921
+Texas,Terry,"other counties",N,12687
+Texas,Throckmorton,"other counties",N,1545
+Texas,Titus,"other counties",N,32553
+Texas,"Tom Green","other counties",N,115056
+Texas,Travis,"other counties",N,1121645
+Texas,Trinity,"other counties",N,14405
+Texas,Tyler,"other counties",N,21462
+Texas,Upshur,"other counties",N,40096
+Texas,Upton,"other counties",N,3405
+Texas,Uvalde,"other counties",N,26952
+Texas,"Val Verde","other counties",N,48980
+Texas,"Van Zandt","other counties",N,52736
+Texas,Victoria,"other counties",N,90099
+Texas,Walker,"other counties",N,69330
+Texas,Ward,"other counties",N,11225
+Texas,Washington,"other counties",N,34236
+Texas,Webb,"other counties",N,263251
+Texas,Wharton,"other counties",N,41264
+Texas,Wheeler,"other counties",N,5618
+Texas,Wichita,"other counties",N,131957
+Texas,Wilbarger,"other counties",N,13158
+Texas,Willacy,"other counties",N,22002
+Texas,Williamson,"other counties",N,473592
+Texas,Wilson,"other counties",N,45509
+Texas,Winkler,"other counties",N,7576
+Texas,Wood,"other counties",N,42712
+Texas,Yoakum,"other counties",N,8213
+Texas,Young,"other counties",N,18329
+Texas,Zapata,"other counties",N,14308
+Texas,Zavala,"other counties",N,12060
+Utah,Beaver,"other counties",N,6461
+Utah,"Box Elder","other counties",N,50991
+Utah,Cache,"other counties",N,117449
+Utah,Carbon,"other counties",N,20927
+Utah,Daggett,"other counties",N,776
+Utah,Davis,"other counties",N,323374
+Utah,Duchesne,"other counties",N,19817
+Utah,Emery,"other counties",N,10728
+Utah,Garfield,"other counties",N,5069
+Utah,Grand,"other counties",N,9388
+Utah,Iron,"other counties",N,47139
+Utah,Juab,"other counties",N,10400
+Utah,Kane,"other counties",N,7202
+Utah,Millard,"other counties",N,12582
+Utah,Morgan,"other counties",N,10276
+Utah,Piute,"other counties",N,1865
+Utah,Rich,"other counties",N,2292
+Utah,"Salt Lake","other counties",N,1078958
+Utah,"San Juan","other counties",N,15152
+Utah,Sanpete,"other counties",N,28261
+Utah,Sevier,"other counties",N,20871
+Utah,Summit,"other counties",N,38521
+Utah,Tooele,"other counties",N,60893
+Utah,Uintah,"other counties",N,35721
+Utah,Utah,"other counties",N,551957
+Utah,Wasatch,"other counties",N,26661
+Utah,Washington,"other counties",N,148244
+Utah,Wayne,"other counties",N,2722
+Utah,Weber,"other counties",N,238682
+Vermont,Addison,"other counties",N,36943
+Vermont,Bennington,"other counties",N,36589
+Vermont,Caledonia,"other counties",N,31012
+Vermont,Chittenden,"other counties",N,159711
+Vermont,Essex,"other counties",N,6207
+Vermont,Franklin,"other counties",N,48418
+Vermont,"Grand Isle","other counties",N,6952
+Vermont,Lamoille,"other counties",N,25027
+Vermont,Orange,"other counties",N,28929
+Vermont,Orleans,"other counties",N,27146
+Vermont,Rutland,"other counties",N,60530
+Vermont,Washington,"other counties",N,59132
+Vermont,Windham,"other counties",N,43858
+Vermont,Windsor,"other counties",N,56150
+Virginia,Accomack,"other counties",N,33115
+Virginia,Albemarle,"other counties",N,103108
+Virginia,Alleghany,"other counties",N,16066
+Virginia,Amelia,"other counties",N,12777
+Virginia,Amherst,"other counties",N,32148
+Virginia,Appomattox,"other counties",N,15208
+Virginia,DC-VA,"Metro DC",Y,2864936
+Virginia,Augusta,"other counties",N,74053
+Virginia,Bath,"other counties",N,4583
+Virginia,Bedford,"other counties",N,76463
+Virginia,Bland,"other counties",N,6662
+Virginia,Botetourt,"other counties",N,33155
+Virginia,Brunswick,"other counties",N,16930
+Virginia,Buchanan,"other counties",N,23486
+Virginia,Buckingham,"other counties",N,17068
+Virginia,Campbell,"other counties",N,55012
+Virginia,Caroline,"other counties",N,29349
+Virginia,Carroll,"other counties",N,29856
+Virginia,"Charles City","other counties",N,7118
+Virginia,Charlotte,"other counties",N,12313
+Virginia,Chesterfield,"other counties",N,328176
+Virginia,Craig,"other counties",N,5212
+Virginia,Cumberland,"other counties",N,9859
+Virginia,Dickenson,"other counties",N,15463
+Virginia,Dinwiddie,"other counties",N,28110
+Virginia,Essex,"other counties",N,11151
+Virginia,Floyd,"other counties",N,15523
+Virginia,Fluvanna,"other counties",N,26014
+Virginia,Franklin,"other counties",N,56315
+Virginia,Frederick,"other counties",N,81340
+Virginia,Giles,"other counties",N,16907
+Virginia,Gloucester,"other counties",N,37001
+Virginia,Goochland,"other counties",N,21721
+Virginia,Grayson,"other counties",N,15573
+Virginia,Greene,"other counties",N,18938
+Virginia,Greensville,"other counties",N,11760
+Virginia,Halifax,"other counties",N,35506
+Virginia,Hanover,"other counties",N,101340
+Virginia,Henrico,"other counties",N,318864
+Virginia,Henry,"other counties",N,52580
+Virginia,Highland,"other counties",N,2244
+Virginia,"Isle of Wight","other counties",N,35740
+Virginia,"James City","other counties",N,70673
+Virginia,"King and Queen","other counties",N,7106
+Virginia,"King George","other counties",N,24933
+Virginia,"King William","other counties",N,16097
+Virginia,Lancaster,"other counties",N,11129
+Virginia,Lee,"other counties",N,25206
+Virginia,Louisa,"other counties",N,33986
+Virginia,Lunenburg,"other counties",N,12558
+Virginia,Mathews,"other counties",N,8880
+Virginia,Mecklenburg,"other counties",N,31555
+Virginia,Middlesex,"other counties",N,10717
+Virginia,Montgomery,"other counties",N,96467
+Virginia,Nelson,"other counties",N,14858
+Virginia,"New Kent","other counties",N,19560
+Virginia,Northampton,"other counties",N,12184
+Virginia,Northumberland,"other counties",N,12304
+Virginia,Nottoway,"other counties",N,15711
+Virginia,Orange,"other counties",N,34596
+Virginia,Page,"other counties",N,23843
+Virginia,Patrick,"other counties",N,18264
+Virginia,Pittsylvania,"other counties",N,62794
+Virginia,Powhatan,"other counties",N,28207
+Virginia,"Prince Edward","other counties",N,23022
+Virginia,"Prince George","other counties",N,37380
+Virginia,Pulaski,"other counties",N,34528
+Virginia,Richmond,"other counties",N,8989
+Virginia,Roanoke,"other counties",N,93633
+Virginia,Rockbridge,"other counties",N,22444
+Virginia,Rockingham,"other counties",N,77785
+Virginia,Russell,"other counties",N,28245
+Virginia,Scott,"other counties",N,22570
+Virginia,Shenandoah,"other counties",N,42724
+Virginia,Smyth,"other counties",N,31734
+Virginia,Southampton,"other counties",N,18410
+Virginia,Surry,"other counties",N,6823
+Virginia,Sussex,"other counties",N,11864
+Virginia,Tazewell,"other counties",N,43870
+Virginia,Washington,"other counties",N,54759
+Virginia,Westmoreland,"other counties",N,17557
+Virginia,Wise,"other counties",N,40530
+Virginia,Wythe,"other counties",N,29190
+Virginia,York,"other counties",N,66471
+Virginia,"Bristol city","other counties",N,17524
+Virginia,"Buena Vista city","other counties",N,6666
+Virginia,"Charlottesville city","other counties",N,45084
+Virginia,"Chesapeake city","other counties",N,230601
+Virginia,"Colonial Heights city","other counties",N,17515
+Virginia,"Covington city","other counties",N,5736
+Virginia,"Danville city","other counties",N,42450
+Virginia,"Emporia city","other counties",N,5672
+Virginia,"Franklin city","other counties",N,8457
+Virginia,"Galax city","other counties",N,6876
+Virginia,"Hampton city","other counties",N,137081
+Virginia,"Harrisonburg city","other counties",N,51388
+Virginia,"Hopewell city","other counties",N,22279
+Virginia,"Lexington city","other counties",N,7071
+Virginia,"Lynchburg city","other counties",N,78158
+Virginia,"Martinsville city","other counties",N,13624
+Virginia,"Newport News city","other counties",N,181323
+Virginia,"Norfolk city","other counties",N,245452
+Virginia,"Norton city","other counties",N,4007
+Virginia,"Petersburg city","other counties",N,32123
+Virginia,"Poquoson city","other counties",N,12077
+Virginia,"Portsmouth city","other counties",N,96135
+Virginia,"Radford city","other counties",N,17057
+Virginia,"Richmond city","other counties",N,213735
+Virginia,"Roanoke city","other counties",N,98736
+Virginia,"Salem city","other counties",N,25165
+Virginia,"Staunton city","other counties",N,24193
+Virginia,"Suffolk city","other counties",N,86184
+Virginia,"Virginia Beach city","other counties",N,448290
+Virginia,"Waynesboro city","other counties",N,21150
+Virginia,"Williamsburg city","other counties",N,14754
+Virginia,"Winchester city","other counties",N,27168
+Washington,Adams,"other counties",N,19081
+Washington,Asotin,"other counties",N,22040
+Washington,Benton,"other counties",N,184930
+Washington,Chelan,"other counties",N,74267
+Washington,Clallam,"other counties",N,72397
+Washington,Clark,"other counties",N,444506
+Washington,Columbia,"other counties",N,3989
+Washington,Cowlitz,"other counties",N,102338
+Washington,Douglas,"other counties",N,39599
+Washington,Ferry,"other counties",N,7652
+Washington,Franklin,"other counties",N,86443
+Washington,Garfield,"other counties",N,2230
+Washington,Grant,"other counties",N,92070
+Washington,"Grays Harbor","other counties",N,71419
+Washington,Island,"other counties",N,79329
+Washington,Jefferson,"other counties",N,30083
+Washington,King,"other counties",N,2045756
+Washington,Kitsap,"other counties",N,255441
+Washington,Kittitas,"other counties",N,42204
+Washington,Klickitat,"other counties",N,20820
+Washington,Lewis,"other counties",N,75515
+Washington,Lincoln,"other counties",N,10363
+Washington,Mason,"other counties",N,60791
+Washington,Okanogan,"other counties",N,41332
+Washington,Pacific,"other counties",N,20645
+Washington,"Pend Oreille","other counties",N,12968
+Washington,Pierce,"other counties",N,821952
+Washington,"San Juan","other counties",N,15956
+Washington,Skagit,"other counties",N,119343
+Washington,Skamania,"other counties",N,11243
+Washington,Snohomish,"other counties",N,746653
+Washington,Spokane,"other counties",N,480832
+Washington,Stevens,"other counties",N,43548
+Washington,Thurston,"other counties",N,262723
+Washington,Wahkiakum,"other counties",N,4035
+Washington,"Walla Walla","other counties",N,59726
+Washington,Whatcom,"other counties",N,207100
+Washington,Whitman,"other counties",N,46737
+Washington,Yakima,"other counties",N,247408
+"West Virginia",Barbour,"other counties",N,16731
+"West Virginia",Berkeley,"other counties",N,108724
+"West Virginia",Boone,"other counties",N,24000
+"West Virginia",Braxton,"other counties",N,14466
+"West Virginia",Brooke,"other counties",N,23665
+"West Virginia",Cabell,"other counties",N,96824
+"West Virginia",Calhoun,"other counties",N,7557
+"West Virginia",Clay,"other counties",N,9141
+"West Virginia",Doddridge,"other counties",N,8201
+"West Virginia",Fayette,"other counties",N,45534
+"West Virginia",Gilmer,"other counties",N,8644
+"West Virginia",Grant,"other counties",N,11815
+"West Virginia",Greenbrier,"other counties",N,35666
+"West Virginia",Hampshire,"other counties",N,23542
+"West Virginia",Hancock,"other counties",N,30201
+"West Virginia",Hardy,"other counties",N,13936
+"West Virginia",Harrison,"other counties",N,68998
+"West Virginia",Jackson,"other counties",N,29256
+"West Virginia",DC-WV,"Metro DC",Y,55214
+"West Virginia",Kanawha,"other counties",N,190781
+"West Virginia",Lewis,"other counties",N,16434
+"West Virginia",Lincoln,"other counties",N,21560
+"West Virginia",Logan,"other counties",N,35760
+"West Virginia",McDowell,"other counties",N,20802
+"West Virginia",Marion,"other counties",N,56790
+"West Virginia",Marshall,"other counties",N,32480
+"West Virginia",Mason,"other counties",N,27177
+"West Virginia",Mercer,"other counties",N,61891
+"West Virginia",Mineral,"other counties",N,27755
+"West Virginia",Mingo,"other counties",N,25931
+"West Virginia",Monongalia,"other counties",N,101668
+"West Virginia",Monroe,"other counties",N,13525
+"West Virginia",Morgan,"other counties",N,17475
+"West Virginia",Nicholas,"other counties",N,25930
+"West Virginia",Ohio,"other counties",N,43637
+"West Virginia",Pendleton,"other counties",N,7402
+"West Virginia",Pleasants,"other counties",N,7636
+"West Virginia",Pocahontas,"other counties",N,8697
+"West Virginia",Preston,"other counties",N,33809
+"West Virginia",Putnam,"other counties",N,56596
+"West Virginia",Raleigh,"other counties",N,78493
+"West Virginia",Randolph,"other counties",N,29365
+"West Virginia",Ritchie,"other counties",N,10140
+"West Virginia",Roane,"other counties",N,14636
+"West Virginia",Summers,"other counties",N,13544
+"West Virginia",Taylor,"other counties",N,16977
+"West Virginia",Tucker,"other counties",N,6972
+"West Virginia",Tyler,"other counties",N,9033
+"West Virginia",Upshur,"other counties",N,24560
+"West Virginia",Wayne,"other counties",N,41499
+"West Virginia",Webster,"other counties",N,8927
+"West Virginia",Wetzel,"other counties",N,16157
+"West Virginia",Wirt,"other counties",N,5841
+"West Virginia",Wood,"other counties",N,86559
+"West Virginia",Wyoming,"other counties",N,22866
+Wisconsin,Adams,"other counties",N,20451
+Wisconsin,Ashland,"other counties",N,15993
+Wisconsin,Barron,"other counties",N,45686
+Wisconsin,Bayfield,"other counties",N,15050
+Wisconsin,Brown,"other counties",N,254717
+Wisconsin,Buffalo,"other counties",N,13319
+Wisconsin,Burnett,"other counties",N,15334
+Wisconsin,Calumet,"other counties",N,49678
+Wisconsin,Chippewa,"other counties",N,63209
+Wisconsin,Clark,"other counties",N,34518
+Wisconsin,Columbia,"other counties",N,56607
+Wisconsin,Crawford,"other counties",N,16483
+Wisconsin,Dane,"other counties",N,510198
+Wisconsin,Dodge,"other counties",N,88547
+Wisconsin,Door,"other counties",N,27731
+Wisconsin,Douglas,"other counties",N,43799
+Wisconsin,Dunn,"other counties",N,44159
+Wisconsin,"Eau Claire","other counties",N,101281
+Wisconsin,Florence,"other counties",N,4476
+Wisconsin,"Fond du Lac","other counties",N,101920
+Wisconsin,Forest,"other counties",N,9150
+Wisconsin,Grant,"other counties",N,51489
+Wisconsin,Green,"other counties",N,37044
+Wisconsin,"Green Lake","other counties",N,18966
+Wisconsin,Iowa,"other counties",N,23769
+Wisconsin,Iron,"other counties",N,5907
+Wisconsin,Jackson,"other counties",N,20543
+Wisconsin,Jefferson,"other counties",N,84345
+Wisconsin,Juneau,"other counties",N,26494
+Wisconsin,Lake,"Chicago MSA",Y,167738
+Wisconsin,Kewaunee,"other counties",N,20483
+Wisconsin,"La Crosse","other counties",N,117048
+Wisconsin,Lafayette,"other counties",N,16835
+Wisconsin,Langlade,"other counties",N,19551
+Wisconsin,Lincoln,"other counties",N,28286
+Wisconsin,Manitowoc,"other counties",N,80521
+Wisconsin,Marathon,"other counties",N,135177
+Wisconsin,Marinette,"other counties",N,41287
+Wisconsin,Marquette,"other counties",N,15140
+Wisconsin,Menominee,"other counties",N,4451
+Wisconsin,Milwaukee,"other counties",N,955939
+Wisconsin,Monroe,"other counties",N,45274
+Wisconsin,Oconto,"other counties",N,37476
+Wisconsin,Oneida,"other counties",N,35653
+Wisconsin,Outagamie,"other counties",N,180430
+Wisconsin,Ozaukee,"other counties",N,87273
+Wisconsin,Pepin,"other counties",N,7372
+Wisconsin,Pierce,"other counties",N,40799
+Wisconsin,Polk,"other counties",N,43572
+Wisconsin,Portage,"other counties",N,70432
+Wisconsin,Price,"other counties",N,13800
+Wisconsin,Racine,"other counties",N,194895
+Wisconsin,Richland,"other counties",N,17746
+Wisconsin,Rock,"other counties",N,160727
+Wisconsin,Rusk,"other counties",N,14357
+Wisconsin,"St. Croix","other counties",N,86118
+Wisconsin,Sauk,"other counties",N,62992
+Wisconsin,Sawyer,"other counties",N,16483
+Wisconsin,Shawano,"other counties",N,41563
+Wisconsin,Sheboygan,"other counties",N,115226
+Wisconsin,Taylor,"other counties",N,20569
+Wisconsin,Trempealeau,"other counties",N,29412
+Wisconsin,Vernon,"other counties",N,30279
+Wisconsin,Vilas,"other counties",N,21355
+Wisconsin,Walworth,"other counties",N,103039
+Wisconsin,Washburn,"other counties",N,15700
+Wisconsin,Washington,"other counties",N,132921
+Wisconsin,Waukesha,"other counties",N,393873
+Wisconsin,Waupaca,"other counties",N,52125
+Wisconsin,Waushara,"other counties",N,24321
+Wisconsin,Winnebago,"other counties",N,169004
+Wisconsin,Wood,"other counties",N,74012
+Wyoming,Albany,"other counties",N,37565
+Wyoming,"Big Horn","other counties",N,11895
+Wyoming,Campbell,"other counties",N,48013
+Wyoming,Carbon,"other counties",N,15739
+Wyoming,Converse,"other counties",N,14101
+Wyoming,Crook,"other counties",N,7229
+Wyoming,Fremont,"other counties",N,40755
+Wyoming,Goshen,"other counties",N,13544
+Wyoming,"Hot Springs","other counties",N,4809
+Wyoming,Johnson,"other counties",N,8600
+Wyoming,Laramie,"other counties",N,95431
+Wyoming,Lincoln,"other counties",N,18316
+Wyoming,Natrona,"other counties",N,80011
+Wyoming,Niobrara,"other counties",N,2516
+Wyoming,Park,"other counties",N,28985
+Wyoming,Platte,"other counties",N,8750
+Wyoming,Sheridan,"other counties",N,29738
+Wyoming,Sublette,"other counties",N,10117
+Wyoming,Sweetwater,"other counties",N,44772
+Wyoming,Teton,"other counties",N,22311
+Wyoming,Uinta,"other counties",N,20930
+Wyoming,Washakie,"other counties",N,8400
+Wyoming,Weston,"other counties",N,7152
+"Puerto Rico",Adjuntas,"other counties",N,18962
+"Puerto Rico",Aguada,"other counties",N,40603
+"Puerto Rico",Aguadilla,"other counties",N,57973
+"Puerto Rico","Aguas Buenas","other counties",N,27693
+"Puerto Rico",Aibonito,"other counties",N,24829
+"Puerto Rico",AÃ±asco,"other counties",N,28579
+"Puerto Rico",Arecibo,"other counties",N,92511
+"Puerto Rico",Arroyo,"other counties",N,19018
+"Puerto Rico",Barceloneta,"other counties",N,24775
+"Puerto Rico",Barranquitas,"other counties",N,29805
+"Puerto Rico",BayamÃ³n,"other counties",N,197287
+"Puerto Rico","Cabo Rojo","other counties",N,50380
+"Puerto Rico",Caguas,"other counties",N,138262
+"Puerto Rico",Camuy,"other counties",N,33949
+"Puerto Rico",CanÃ³vanas,"other counties",N,47432
+"Puerto Rico",Carolina,"other counties",N,168114
+"Puerto Rico",CataÃ±o,"other counties",N,26680
+"Puerto Rico",Cayey,"other counties",N,46647
+"Puerto Rico",Ceiba,"other counties",N,12810
+"Puerto Rico",Ciales,"other counties",N,17928
+"Puerto Rico",Cidra,"other counties",N,42298
+"Puerto Rico",Coamo,"other counties",N,40293
+"Puerto Rico",ComerÃ­o,"other counties",N,20339
+"Puerto Rico",Corozal,"other counties",N,35975
+"Puerto Rico",Culebra,"other counties",N,1557
+"Puerto Rico",Dorado,"other counties",N,38166
+"Puerto Rico",Fajardo,"other counties",N,34720
+"Puerto Rico",Florida,"other counties",N,12408
+"Puerto Rico",GuÃ¡nica,"other counties",N,18207
+"Puerto Rico",Guayama,"other counties",N,43700
+"Puerto Rico",Guayanilla,"other counties",N,20442
+"Puerto Rico",Guaynabo,"other counties",N,93899
+"Puerto Rico",Gurabo,"other counties",N,46765
+"Puerto Rico",Hatillo,"other counties",N,41578
+"Puerto Rico",Hormigueros,"other counties",N,16845
+"Puerto Rico",Humacao,"other counties",N,56384
+"Puerto Rico",Isabela,"other counties",N,44438
+"Puerto Rico",Jayuya,"other counties",N,15890
+"Puerto Rico","Juana DÃ­az","other counties",N,49259
+"Puerto Rico",Juncos,"other counties",N,40104
+"Puerto Rico",Lajas,"other counties",N,24722
+"Puerto Rico",Lares,"other counties",N,28727
+"Puerto Rico","Las MarÃ­as","other counties",N,9306
+"Puerto Rico","Las Piedras","other counties",N,38605
+"Puerto Rico",LoÃ­za,"other counties",N,28454
+"Puerto Rico",Luquillo,"other counties",N,19497
+"Puerto Rico",ManatÃ­,"other counties",N,42167
+"Puerto Rico",Maricao,"other counties",N,6315
+"Puerto Rico",Maunabo,"other counties",N,11701
+"Puerto Rico",MayagÃ¼ez,"other counties",N,83418
+"Puerto Rico",Moca,"other counties",N,38815
+"Puerto Rico",Morovis,"other counties",N,32294
+"Puerto Rico",Naguabo,"other counties",N,26804
+"Puerto Rico",Naranjito,"other counties",N,29751
+"Puerto Rico",Orocovis,"other counties",N,22595
+"Puerto Rico",Patillas,"other counties",N,18441
+"Puerto Rico",PeÃ±uelas,"other counties",N,22770
+"Puerto Rico",Ponce,"other counties",N,156054
+"Puerto Rico",Quebradillas,"other counties",N,25205
+"Puerto Rico",RincÃ³n,"other counties",N,14841
+"Puerto Rico","RÃ­o Grande","other counties",N,53029
+"Puerto Rico","Sabana Grande","other counties",N,24307
+"Puerto Rico",Salinas,"other counties",N,30114
+"Puerto Rico","San GermÃ¡n","other counties",N,34125
+"Puerto Rico","San Juan","other counties",N,371400
+"Puerto Rico","San Lorenzo","other counties",N,39778
+"Puerto Rico","San SebastiÃ¡n","other counties",N,40471
+"Puerto Rico","Santa Isabel","other counties",N,22913
+"Puerto Rico","Toa Alta","other counties",N,74603
+"Puerto Rico","Toa Baja","other counties",N,85242
+"Puerto Rico","Trujillo Alto","other counties",N,71886
+"Puerto Rico",Utuado,"other counties",N,31474
+"Puerto Rico","Vega Alta","other counties",N,39319
+"Puerto Rico","Vega Baja","other counties",N,56858
+"Puerto Rico",Vieques,"other counties",N,9130
+"Puerto Rico",Villalba,"other counties",N,24685
+"Puerto Rico",Yabucoa,"other counties",N,36279
+"Puerto Rico",Yauco,"other counties",N,39474
