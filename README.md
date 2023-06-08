@@ -1,11 +1,45 @@
-# US Census Demographic Data
-An attempt to identify insights into transportation, income and economic disparity (poverty rate) in the US by using the 2015 census tract data from acs2015_county_data.csv. 
-Key is to understand state of play and overlay with correlative empirical assessment and additional research to illuminate on the issues at hand.
+WIP - don't use it yet
+
+# DA105.3 Build a Data Visualization Project (Udacity)
+
+# Chosen Metadata: US Demographic data
 
 ## 1. Project description
-Generate insights from census tract data which covers factors related to transportation, income and poverty rate (disparity) along and across state lines and overlay with additional research on potentially differentiated insights based on urbanization.
+Generate insights from census tract data which covers factors related to transportation, income and poverty rate (disparity) along and across state lines. 
 
-## 2. Condition of dataset
+## 2. Submission
+PDF of this markdown document.
+
+## 3. Insights and rationale for design choice of visualizations 
+### Insight 1:
+  * Summary: Overall counties exhibit inversely proportional relationship between incomes per capita with povery rates. Convex-to-concave nature of the Power trendline to characterize the distributions of the two factors (income and poverty) indicate a complex system is at play. This often the feature in politics and socio-economic factors.
+  * Why scatter chart? To aptly capture required high-res analysis for study, with minimal bias from consolidation incl. true ranges and distributions of counties across income/disparity frontier. It also illuminates outsized influence certain counties (e.g. SF/NY) have on their states or metro systems. Overlaying with categorical colours for regions and metropolitan affiliation indicates unexpected insight into a favourable drift of those counties above trend line. 
+### Insight 2:
+  * Summary: TBD.
+  * Why XX chart? TBD. 
+### Insight 3:
+  * Summary: TBD.
+  * Why XX chart? TBD.
+
+## 4. Resources: 
+* Dashboard (Tableau Story) https://public.tableau.com/app/profile/alan.kong2051/viz/USCensusDemographicData_16858286856570/Story
+* Github https://github.com/coderedstorage/US_Census_Demographic_Data
+  * acs2015-county-data.csv (original data obtained from https://www.kaggle.com/muonneutrino/us-census-demographic-data/data)
+  * US Census Demographic Data.twbx (Tableau Workbook)
+  * metro_adj.csv (calculation of of populations at metro area level). Generated from MySQL as a view called 'metro_adj'.
+  * metro_counties.csv (State, County, Metropolitan and MSA mapping). Imported into MySQL as a Table called 'metro'
+  * state_code.csv (state codes and state regions/divisions used by US Census bureau) 
+
+# Tools used
+* MySQL to facilitate enablement to overlay external information on original data (acs2015_county_data.csv) to generate final dataset (us_census_data.csv):
+  * Overlay urbanization conglomeration (MSAs) information from metro_counties.csv. 
+  * Overlay state codes from state_code.csv.
+* MySQL to facilitate enablement to overlay information on original data (acs2015_county_data.csv) to generate calculation of metro area level populations as metro_adj.csv:
+  * Overlay urbanization conglomeration (MSAs) information from metro_counties.csv. 
+* MySQL to overlay metro area level populations (metro_adj.csv) on original data (acs2015_county_data.csv) to generate final dataset (us_census_data.csv).
+* Tableau Public to create visualization (requires final dataset us_census_data.csv to be commited to Tableau Public).
+
+# Condition of dataset
 * 37-field dataset at county level for:
   * Populations (total, gender, racial, employed). 
   * Income related (total and per capita).
@@ -15,39 +49,8 @@ Generate insights from census tract data which covers factors related to transpo
   * Job types (professional, service, office etc).
 * More details, see Appendix.
 
-## 3. Tools used
-* MySQL to facilitate enablement to overlay external information on original data (acs2015_county_data.csv) to generate final dataset (us_census_data.csv):
-  * Overlay urbanization conglomeration (MSAs) information from metro_counties.csv. 
-  * Overlay state codes from state_code.csv.
-* MySQL to facilitate enablement to overlay information on original data (acs2015_county_data.csv) to generate calculation of metro area level populations as metro_adj.csv:
-  * Overlay urbanization conglomeration (MSAs) information from metro_counties.csv. 
-* MySQL to overlay metro area level populations (metro_adj.csv) on original data (acs2015_county_data.csv) to generate final dataset (us_census_data.csv).
-* Tableau Public to create visualization (requires final dataset us_census_data.csv to be commited to Tableau Public).
-
-## 4. Generated insights
-* Macro view on transportation followed drill downs into mode of transportation and commute time by state, metro areas and county.  
-* Macro view on income per capita and poverty rate followed by downs into by state, metro areas and county.
-* Map visualization to provide spatial insights into distribution of county-level incomes and disparities.
-
-## 5. Limitations and blind spots:
-* Lack of information on the ubanization status of counties, which needs to researched and overlaid on the original dataset.
-* No furher drill down on the basis of race. Therefore this has not been explored. Owing to:
-  * Complexities on linking race to socioeconomic status to further expand on poverty and income per capita.
-  * Absence of objective metrics on socioeconomic status.
-  * Desire to stay objective instead deferring to biases typified by popular consciousness. 
-* No furher drill down on the basis of job types. Therefore this has not been explored. Reasons include:
-  * Absence of objective metrics on socioeconomic status (per before).
-  * Absense of Salary bands by job types. 
-  * Desire to avoid guess work needed to gnostically link income sub-categories and socioecnomic status with job types.
-  
-## 6. Tableau visualization
-https://public.tableau.com/app/profile/alan.kong2051/viz/USCensusDemographicData_16858286856570/Story
-
-## GitHub
-https://github.com/coderedstorage/US_Census_Demographic_Data
-
 # Appendix: About the dataset
-Copied from Kaggle https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data
+Below is copied from https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data.
 ## Context
 This dataset expands on my earlier New York City Census Data dataset. It includes data from the entire country instead of just New York City. 
 The expanded data will allow for much more interesting analyses and will also be much more useful at supporting other data sets.
