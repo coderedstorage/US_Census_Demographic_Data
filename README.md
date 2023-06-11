@@ -43,13 +43,13 @@ PDF of this markdown document.
    * us_regdiv.pdf (original pdf from US Census bureau) to populate state_code.csv. 
    * us_census_data.csv (final dataset committed to Tableau) exported from view called 'us_census_data' on MySQL. 
 
-# Tools used
+## 5. Tools used
 * MySQL to facilitate enablement of original data (acs2015_county_data.csv) to generate final dataset (us_census_data.csv):
   * Overlay urbanization conglomeration (MSAs) information from metro_counties.csv. 
   * Overlay state codes, regions and divisions from state_code.csv.
 * Tableau Public to create visualization (requires final dataset us_census_data.csv to be committed to Tableau Public).
 
-# Condition of dataset
+## 6. Condition of dataset
 * 37-field dataset at county level for:
   * Populations (total, gender, racial, employed). 
   * Income related (total and per capita).
