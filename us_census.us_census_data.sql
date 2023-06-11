@@ -1,14 +1,33 @@
 CREATE OR REPLACE VIEW us_census.us_census_data AS 
-WITH state_has_metro AS
+
+WITH metro_pop AS
+(SELECT 
+    usc.state,
+    mtr.metropolitan,
+    mtr.major_msa,
+    SUM(TotalPop) metro_Pop,
+    CASE WHEN SUM(TotalPop) >= 200000 
+    THEN 'Y' 
+    ELSE 'N'
+    END metro_above_200K_midsize_or_larger
+FROM us_census.kaggle_data usc
+LEFT JOIN us_census.metro mtr
+ON usc.state = mtr.state AND usc.county = mtr.county
+WHERE mtr.major_msa IS NOT NULL
+GROUP BY 1, 2, 3),
+
+state_has_metro AS
 (SELECT DISTINCT state FROM us_census.metro),
+
 US_avg_IncomePerCap AS
-(SELECT SUM(TotalPop*IncomePerCap)/SUM(TotalPop) FROM us_census.kaggle_data),
-metro_pop AS
-(SELECT * FROM us_census.metro_adj)
+(SELECT SUM(TotalPop*IncomePerCap)/SUM(TotalPop) FROM us_census.kaggle_data)
 
 SELECT 
     usc.*,
     scd.state_code,
+    scd.region,
+    scd.division,
+    scd.incorporated_territory,
         CASE 
     WHEN mtr.metropolitan IS NOT NULL
     THEN mtr.metropolitan
