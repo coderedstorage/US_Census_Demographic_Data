@@ -69,7 +69,9 @@ SELECT
     WHEN mtr.metropolitan IS NOT NULL
     THEN mtp.metro_above_200K_midsize_or_larger
     ELSE "other counties"
-    END metro_above_200K_midsize_or_larger
+    END metro_above_200K_midsize_or_larger,
+    
+    CURRENT_TIMESTAMP date_pull
 
 FROM us_census.kaggle_data usc
 LEFT JOIN us_census.metro mtr
