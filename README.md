@@ -43,7 +43,7 @@ Generate insights from census tract data which covers factors related to transpo
    * [metro_counties.csv](https://github.com/coderedstorage/US_Census_Demographic_Data/blob/main/metro_counties.csv) (State, County, Metropolitan and MSA mapping). Imported into MySQL table us_census.metro.
    * [state_code.csv](https://github.com/coderedstorage/US_Census_Demographic_Data/blob/main/state_code.csv) (state codes and state regions/divisions used by US Census bureau). Imported into MySQL table us_census.state_code. 
    * [us_regdiv.pdf](https://github.com/coderedstorage/US_Census_Demographic_Data/blob/main/us_regdiv.pdf) (original pdf from US Census bureau) to populate state_code.csv
-   * [us_census.us_census_data.sql(https://github.com/coderedstorage/US_Census_Demographic_Data/blob/main/us_census.us_census_data.sql) MySQL script to generate MySQL view us_census.us_census_data
+   * [us_census.us_census_data.sql](https://github.com/coderedstorage/US_Census_Demographic_Data/blob/main/us_census.us_census_data.sql) MySQL script to generate MySQL view us_census.us_census_data
    * [us_census_data.csv](https://github.com/coderedstorage/US_Census_Demographic_Data/blob/main/us_census.us_census_data.sql) (final dataset committed to Tableau) exported from MySQL view us_census.us_census_data. 
 
 ## 5. Tools used
