@@ -6,8 +6,8 @@
 Generate insights from census tract data which covers factors related to transportation, income and poverty rate (disparity) along and across state lines. 
 
 ## 2. Submission & Feedback
- * [Submission](https://github.com/coderedstorage/US_Census_Demographic_Data/commit/39481453f34ec1c0628e868ac9ce68294bd7d5aa#diff-09118090f05697fccbb769e7a9ecc1a00667e6de25fa7ee99458dcb92d8e055a).
- * [Feeback](https://github.com/coderedstorage/US_Census_Demographic_Data/commit/c7cd7ce347c41c86f2a4d25271bc8d2edb840b9d).
+ * [Submission](https://github.com/coderedstorage/US_Census_Demographic_Data/blob/main/DA105.3%20Build%20a%20Data%20Visualization%20Project%20AK.pdf).
+ * [Feeback](https://github.com/coderedstorage/US_Census_Demographic_Data/blob/main/Telling%20Stories%20with%20Data%20Feedback.pdf).
 
 ## 3. Insights and rationale for design choice of visualizations 
 ### Insight 1:
@@ -61,7 +61,7 @@ Generate insights from census tract data which covers factors related to transpo
 * More details, see Appendix.
 
 # Appendix: About the dataset
-Below is copied from https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data.
+Below is copied from [Kaggle](https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data).
 ## Context
 This dataset expands on my earlier New York City Census Data dataset. It includes data from the entire country instead of just New York City. 
 The expanded data will allow for much more interesting analyses and will also be much more useful at supporting other data sets.
