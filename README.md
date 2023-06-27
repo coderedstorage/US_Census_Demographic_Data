@@ -8,6 +8,7 @@ Generate insights from census tract data which covers factors related to transpo
 ## 2. Submission & Feedback
  * [Submission](https://github.com/coderedstorage/US_Census_Demographic_Data/blob/main/DA105.3%20Build%20a%20Data%20Visualization%20Project%20AK.pdf).
  * [Feeback](https://github.com/coderedstorage/US_Census_Demographic_Data/blob/main/Telling%20Stories%20with%20Data%20Feedback.pdf).
+ * [Certificate of completion](https://graduation.udacity.com/confirm/e/05254ddc-f008-11ed-8f0a-97a19973e897).
 
 ## 3. Insights and rationale for design choice of visualizations 
 ### Insight 1:
