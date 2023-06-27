@@ -35,10 +35,10 @@ Generate insights from census tract data which covers factors related to transpo
     * Interactive filters for polities (region, division and state) and top/bottom parameter to allow audience to focus or expand the scope of self-directed investigation. 
 
 ## 4. Resources: 
-* Dashboard (Tableau Story) https://public.tableau.com/app/profile/alan.kong2051/viz/USCensusDemographicData_16858286856570/Story
-* Github https://github.com/coderedstorage/US_Census_Demographic_Data
-   * US Census Demographic Data.twbx (Tableau Workbook)
-   * acs2015-county-data.csv (original data obtained from https://www.kaggle.com/muonneutrino/us-census-demographic-data/data). Imported into MySQL as table called 'kaggle_data'
+* Dashboard (Tableau Story) is [here](https://public.tableau.com/app/profile/alan.kong2051/viz/USCensusDemographicData_16858286856570/Story).
+* [Github](https://github.com/coderedstorage/US_Census_Demographic_Data)
+   * US Census Demographic Data.twbx [Tableau Workbook](https://github.com/coderedstorage/US_Census_Demographic_Data/commit/7769b60da7a9dd42f6d1a3d4fcb3abb7944fcc1a).
+   * [acs2015-county-data.csv](https://github.com/coderedstorage/US_Census_Demographic_Data/commit/b219198d617ada70971ac817439692e55221439f) (original data obtained from [Kaggle](https://www.kaggle.com/muonneutrino/us-census-demographic-data/data)). Imported into MySQL as table called 'kaggle_data'
    * metro_counties.csv (State, County, Metropolitan and MSA mapping). Imported into MySQL as table called 'metro'
    * state_code.csv (state codes and state regions/divisions used by US Census bureau). Imported into MySQL as table called 'state_code' 
    * us_regdiv.pdf (original pdf from US Census bureau) to populate state_code.csv. 
