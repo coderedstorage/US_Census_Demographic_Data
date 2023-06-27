@@ -6,7 +6,7 @@
 Generate insights from census tract data which covers factors related to transportation, income and poverty rate (disparity) along and across state lines. 
 
 ## 2. Submission
-PDF of this markdown document.
+PDF of this markdown [document] (https://github.com/coderedstorage/US_Census_Demographic_Data/commit/39481453f34ec1c0628e868ac9ce68294bd7d5aa). 
 
 ## 3. Insights and rationale for design choice of visualizations 
 ### Insight 1:
