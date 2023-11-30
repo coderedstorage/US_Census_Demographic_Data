@@ -1,4 +1,4 @@
-# DA105.3 Build a Data Visualization Project (Udacity) aka US Census Demographic Visualization 
+# DA105.3 Build a Data Visualization Project (Udacity) aka US Census Demographic Data Visualization 
 
 # Chosen Metadata: US Census Demographic data
 
