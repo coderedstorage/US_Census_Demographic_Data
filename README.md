@@ -1,6 +1,6 @@
-# DA105.3 Build a Data Visualization Project (Udacity)
+# DA105.3 Build a Data Visualization Project (Udacity) aka US Census Demographic Visualization 
 
-# Chosen Metadata: US Demographic data
+# Chosen Metadata: US Census Demographic data
 
 ## 1. Project description
 Generate insights from census tract data which covers factors related to transportation, income and poverty rate (disparity) along and across state lines. 
